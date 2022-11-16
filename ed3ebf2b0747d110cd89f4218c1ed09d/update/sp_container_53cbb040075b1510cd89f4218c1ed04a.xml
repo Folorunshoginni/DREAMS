@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="INSERT_OR_UPDATE">
+        <background_color>#000000</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Dream Booking Reports - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="dream_booking_reports">4bcbb040075b1510cd89f4218c1ed047</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 09:39:33</sys_created_on>
+        <sys_id>53cbb040075b1510cd89f4218c1ed04a</sys_id>
+        <sys_name>Dream Booking Reports - Container 1</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_container_53cbb040075b1510cd89f4218c1ed04a</sys_update_name>
+        <title/>
+        <width>container</width>
+    </sp_container>
+</record_update>

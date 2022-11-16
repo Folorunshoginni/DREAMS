@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Harry Potter Hogwarts 3">ac53510007db1510cd89f4218c1ed070</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 11:26:11</sys_created_on>
+        <sys_id>8134190407db1510cd89f4218c1ed073</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Harry Potter Hogwarts 3</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_8134190407db1510cd89f4218c1ed073</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 11:26:11</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_catalog_8134190407db1510cd89f4218c1ed073</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Harry Potter Hogwarts 3">ac53510007db1510cd89f4218c1ed070</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-16 11:26:11</sys_created_on><sys_id>8134190407db1510cd89f4218c1ed073</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Harry Potter Hogwarts 3</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_catalog_8134190407db1510cd89f4218c1ed073</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-16 11:26:11</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-921401581</payload_hash>
+        <record_name>Service Catalog.Harry Potter Hogwarts 3</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 11:26:11</sys_created_on>
+        <sys_id>5d34190407db1510cd89f4218c1ed075</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18480307a890000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 11:26:11</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d13419047bdb15104cfb1ac1f61c4675</update_guid>
+        <update_guid_history>d13419047bdb15104cfb1ac1f61c4675:-921401581</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Harry Potter Hogwarts 3">5e64594407db1510cd89f4218c1ed061</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 11:27:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>556596cbbd0c44fca2b4a05ec249d4d1</sys_id>
+        <sys_metadata>8134190407db1510cd89f4218c1ed073</sys_metadata>
+        <sys_name>Service Catalog.Harry Potter Hogwarts 3</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent display_value="Harry Potter Hogwarts 3">ac53510007db1510cd89f4218c1ed070</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_8134190407db1510cd89f4218c1ed073</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_8134190407db1510cd89f4218c1ed073">5d34190407db1510cd89f4218c1ed075</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

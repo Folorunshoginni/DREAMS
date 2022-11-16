@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Dream Booking Homepage - Container 1</name>
+        <order>1</order>
+        <sp_page display_value="dream_booking_homepage">54dea8bf074bd110cd89f4218c1ed047</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:04:22</sys_created_on>
+        <sys_id>60dea8bf074bd110cd89f4218c1ed04a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dream Booking Homepage - Container 1</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_container_60dea8bf074bd110cd89f4218c1ed04a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:04:22</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_container_60dea8bf074bd110cd89f4218c1ed04a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Dream Booking Homepage - Container 1</name><order>1</order><sp_page display_value="dream_booking_homepage">54dea8bf074bd110cd89f4218c1ed047</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 14:04:22</sys_created_on><sys_id>60dea8bf074bd110cd89f4218c1ed04a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dream Booking Homepage - Container 1</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sp_container_60dea8bf074bd110cd89f4218c1ed04a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 14:04:22</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>-1579319339</payload_hash>
+        <record_name>Dream Booking Homepage - Container 1</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:04:22</sys_created_on>
+        <sys_id>a0dea8bf074bd110cd89f4218c1ed04c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847b9af07a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:04:22</sys_updated_on>
+        <type>Container</type>
+        <update_guid>e8dea8bfa44bd1108c0fcd86bf25884b</update_guid>
+        <update_guid_history>e8dea8bfa44bd1108c0fcd86bf25884b:-1579319339</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Dream Booking Homepage - Container 1">844f20ff074bd110cd89f4218c1ed098</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:06:14</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>7e3bf475b1e74585a6c456bca49b14a9</sys_id>
+        <sys_metadata>60dea8bf074bd110cd89f4218c1ed04a</sys_metadata>
+        <sys_name>Dream Booking Homepage - Container 1</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_container_60dea8bf074bd110cd89f4218c1ed04a</sys_update_name>
+        <sys_update_version display_value="sp_container_60dea8bf074bd110cd89f4218c1ed04a">a0dea8bf074bd110cd89f4218c1ed04c</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

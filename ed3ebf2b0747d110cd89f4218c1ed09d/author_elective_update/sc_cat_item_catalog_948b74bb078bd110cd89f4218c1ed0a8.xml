@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Neverland Resort">cbb5b4b3078bd110cd89f4218c1ed08c</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:59:47</sys_created_on>
+        <sys_id>948b74bb078bd110cd89f4218c1ed0a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Neverland Resort</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_948b74bb078bd110cd89f4218c1ed0a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:59:47</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_catalog_948b74bb078bd110cd89f4218c1ed0a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Neverland Resort">cbb5b4b3078bd110cd89f4218c1ed08c</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 14:59:47</sys_created_on><sys_id>948b74bb078bd110cd89f4218c1ed0a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Neverland Resort</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_catalog_948b74bb078bd110cd89f4218c1ed0a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 14:59:47</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>1527787039</payload_hash>
+        <record_name>Service Catalog.Neverland Resort</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:59:47</sys_created_on>
+        <sys_id>5c8b74bb078bd110cd89f4218c1ed0b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847bcdacfc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:59:47</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>d08b74bb688bd11002d18d270fa76ab7</update_guid>
+        <update_guid_history>d08b74bb688bd11002d18d270fa76ab7:1527787039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Neverland Resort">ecd889f707cbd110cd89f4218c1ed0ae</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:57:58</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>0ad18158f87942e280854445195acd41</sys_id>
+        <sys_metadata>948b74bb078bd110cd89f4218c1ed0a8</sys_metadata>
+        <sys_name>Service Catalog.Neverland Resort</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent display_value="Neverland Resort">cbb5b4b3078bd110cd89f4218c1ed08c</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_948b74bb078bd110cd89f4218c1ed0a8</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_948b74bb078bd110cd89f4218c1ed0a8">5c8b74bb078bd110cd89f4218c1ed0b7</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

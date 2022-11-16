@@ -75,14 +75,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-16 12:18:23</sys_created_on>
         <sys_id>d95fd9c4075f1510cd89f4218c1ed034</sys_id>
-        <sys_mod_count>2</sys_mod_count>
         <sys_name>When would like to have your holiday? </sys_name>
         <sys_package/>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
         <sys_update_name>item_option_new_d95fd9c4075f1510cd89f4218c1ed034</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2022-11-16 12:23:45</sys_updated_on>
         <table/>
         <tooltip/>
         <type>10</type>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>booking</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_938860_dream_boo_booking</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Task" name="task">2e7056e4f90211108c8bd16244dfe707</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 10:41:33</sys_created_on>
+        <sys_id>e16088f307c7d110cd89f4218c1ed00f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dream Boo Booking</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sys_db_object_e16088f307c7d110cd89f4218c1ed00f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 10:41:33</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sys_db_object_e16088f307c7d110cd89f4218c1ed00f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>true</actions_access><alter_access>true</alter_access><caller_access/><client_scripts_access>true</client_scripts_access><configuration_access>false</configuration_access><create_access>true</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>booking</label><live_feed_enabled>false</live_feed_enabled><name>x_938860_dream_boo_booking</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Task" name="task">2e7056e4f90211108c8bd16244dfe707</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 10:41:33</sys_created_on><sys_id>e16088f307c7d110cd89f4218c1ed00f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Dream Boo Booking</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sys_db_object_e16088f307c7d110cd89f4218c1ed00f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 10:41:33</sys_updated_on><update_access>true</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>577040309</payload_hash>
+        <record_name>booking</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 10:41:35</sys_created_on>
+        <sys_id>0e6088f307c7d110cd89f4218c1ed059</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847ae1491e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 10:41:35</sys_updated_on>
+        <type>Table</type>
+        <update_guid>866088f341c7d110d44c8a615a305859</update_guid>
+        <update_guid_history>866088f341c7d110d44c8a615a305859:577040309</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 11:22:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>27d56e757c6b48c88fe2bf8675e103d1</sys_id>
+        <sys_metadata>e16088f307c7d110cd89f4218c1ed00f</sys_metadata>
+        <sys_name>Dream Boo Booking</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sys_db_object_e16088f307c7d110cd89f4218c1ed00f</sys_update_name>
+        <sys_update_version display_value="sys_db_object_e16088f307c7d110cd89f4218c1ed00f">0e6088f307c7d110cd89f4218c1ed059</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

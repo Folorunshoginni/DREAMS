@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="DREAM_BOOKING">1fc3c4b707c7d110cd89f4218c1ed0a3</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Open</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_938860_dream_boo_dreamers</name>
+        <order>3</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query>active=true^EQ</query>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 10:56:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9bc3ccb707c7d110cd89f4218c1ed033</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Open</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sys_app_module_9bc3ccb707c7d110cd89f4218c1ed033</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 10:56:25</sys_updated_on>
+        <timeline_page/>
+        <title>Open</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sys_app_module_9bc3ccb707c7d110cd89f4218c1ed033</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="DREAM_BOOKING">1fc3c4b707c7d110cd89f4218c1ed0a3</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>Open</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_938860_dream_boo_dreamers</name><order>3</order><override_menu_roles>false</override_menu_roles><query>active=true^EQ</query><report/><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 10:56:25</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9bc3ccb707c7d110cd89f4218c1ed033</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Open</sys_name><sys_overrides/><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sys_app_module_9bc3ccb707c7d110cd89f4218c1ed033</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 10:56:25</sys_updated_on><timeline_page/><title>Open</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-662287623</payload_hash>
+        <record_name>Open</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 10:56:25</sys_created_on>
+        <sys_id>93c3ccb707c7d110cd89f4218c1ed035</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847aeedc530000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 10:56:25</sys_updated_on>
+        <type>Module</type>
+        <update_guid>dbc3ccb7b6c7d1104798dec3e3f77c34</update_guid>
+        <update_guid_history>dbc3ccb7b6c7d1104798dec3e3f77c34:-662287623</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Open">17f9883f07c7d110cd89f4218c1ed053</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 11:23:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>69bebce7ad06401a9880056b9ae46519</sys_id>
+        <sys_metadata>9bc3ccb707c7d110cd89f4218c1ed033</sys_metadata>
+        <sys_name>Open</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sys_app_module_9bc3ccb707c7d110cd89f4218c1ed033</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9bc3ccb707c7d110cd89f4218c1ed033">93c3ccb707c7d110cd89f4218c1ed035</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

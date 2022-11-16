@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Neverland Resort">cbb5b4b3078bd110cd89f4218c1ed08c</sc_cat_item>
+        <sc_category display_value="Printers">5d643c6a3771300054b6a3549dbe5db0</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:58:04</sys_created_on>
+        <sys_id>0ed8c9f707cbd110cd89f4218c1ed087</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Printers.Neverland Resort</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_category_0ed8c9f707cbd110cd89f4218c1ed087</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 15:58:04</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_category_0ed8c9f707cbd110cd89f4218c1ed087</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Neverland Resort">cbb5b4b3078bd110cd89f4218c1ed08c</sc_cat_item><sc_category display_value="Printers">5d643c6a3771300054b6a3549dbe5db0</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 15:58:04</sys_created_on><sys_id>0ed8c9f707cbd110cd89f4218c1ed087</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Printers.Neverland Resort</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_category_0ed8c9f707cbd110cd89f4218c1ed087</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 15:58:04</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-1635522951</payload_hash>
+        <record_name>Printers.Neverland Resort</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 15:58:04</sys_created_on>
+        <sys_id>c2d8c9f707cbd110cd89f4218c1ed08b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847c0308f60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 15:58:04</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>4ad8c9f77dcbd110fca0d4ea0fc1d38a</update_guid>
+        <update_guid_history>4ad8c9f77dcbd110fca0d4ea0fc1d38a:-1635522951</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Printers.Neverland Resort">24f90d3b07cbd110cd89f4218c1ed091</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 16:02:53</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>0b2486f4191744ccaff6962fc123dc10</sys_id>
+        <sys_metadata>0ed8c9f707cbd110cd89f4218c1ed087</sys_metadata>
+        <sys_name>Printers.Neverland Resort</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_0ed8c9f707cbd110cd89f4218c1ed087</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_0ed8c9f707cbd110cd89f4218c1ed087">c2d8c9f707cbd110cd89f4218c1ed08b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
