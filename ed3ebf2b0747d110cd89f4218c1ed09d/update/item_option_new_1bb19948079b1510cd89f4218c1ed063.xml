@@ -73,7 +73,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-16 11:16:59</sys_created_on>
+        <sys_created_on>2022-11-16 11:20:36</sys_created_on>
         <sys_id>1bb19948079b1510cd89f4218c1ed063</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>How would you like to pay?</sys_name>
@@ -81,8 +81,8 @@
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
         <sys_update_name>item_option_new_1bb19948079b1510cd89f4218c1ed063</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-11-16 11:17:04</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-16 11:21:26</sys_updated_on>
         <table/>
         <tooltip/>
         <type>5</type>
