@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
     <sp_page action="INSERT_OR_UPDATE">
         <category>custom</category>
-        <css/>
+        <css>p {
+  font-size: 1.5em;
+  padding: 15px 0px;
+  color: #fff;
+  text-align: center;
+}</css>
         <draft>false</draft>
         <dynamic_title_structure/>
         <id>dream_booking_reports</id>
