@@ -6,15 +6,15 @@
         <bootstrap_alt>false</bootstrap_alt>
         <class_name/>
         <container_class_name/>
-        <name>Dream Booking Homepage - Container 6</name>
-        <order>6</order>
+        <name>Dream Booking Homepage - Container 7</name>
+        <order>7</order>
         <sp_page display_value="dream_booking_homepage">54dea8bf074bd110cd89f4218c1ed047</sp_page>
         <subheader>false</subheader>
         <sys_class_name>sp_container</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-16 10:55:35</sys_created_on>
         <sys_id>f43d8904079b1510cd89f4218c1ed0a2</sys_id>
-        <sys_name>Dream Booking Homepage - Container 6</sys_name>
+        <sys_name>Dream Booking Homepage - Container 7</sys_name>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>

@@ -8,11 +8,23 @@
   text-align: center;
 }
 
+h1{
+    color: #fff;
+}
+
 h3 {
   font-size: 2em;
   padding: 15px 0px;
   color: #fff;
   text-align: center;
+}
+
+.blackText {
+    color: #000;
+}
+
+#space {
+padding: 150px 0px;
 }
 
 #story img {
@@ -21,13 +33,13 @@ h3 {
 }
 
 
-/*#tagline {
-
-  font-size: 2em;
+#tagline {
+	background-color: #fff;
+  font-size: 1.5em;
   padding: 15px 0px;
-  color: #fff;
-  text-align: center;
-}*/</css>
+  margin-top:60px;
+
+}</css>
         <draft>false</draft>
         <dynamic_title_structure/>
         <id>dream_booking_homepage</id>

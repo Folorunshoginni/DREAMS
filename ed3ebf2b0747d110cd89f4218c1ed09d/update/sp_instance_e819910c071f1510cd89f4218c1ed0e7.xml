@@ -23,7 +23,12 @@
         <sys_update_name>sp_instance_e819910c071f1510cd89f4218c1ed0e7</sys_update_name>
         <title/>
         <url/>
-        <widget_parameters/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<p style=\"text-align: center;\"><img src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"Alice in Wonderland moive\" width=\"500\" height=\"600\" /></p>",
+		"displayValue": "<p style=\"text-align: center;\"><img src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"Alice in Wonderland moive\" width=\"500\" height=\"600\" /></p>"
+	}
+}]]></widget_parameters>
     </sp_instance>
     <sys_translated_text action="delete_multiple" query="documentkey=e819910c071f1510cd89f4218c1ed0e7"/>
 </record_update>

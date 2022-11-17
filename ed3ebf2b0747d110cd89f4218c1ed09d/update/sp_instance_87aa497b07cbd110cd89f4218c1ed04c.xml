@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"harry-potter-netflix.jpg\" alt=\"\" /></div>\r\n<h3><strong>Harry Potter</strong></h3>\r\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\"> Fly away to your dream land</a></p>",
-		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"harry-potter-netflix.jpg\" alt=\"\" /></div>\n<h3><strong>Harry Potter</strong></h3>\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\"> Fly away to your dream land</a></p>"
+		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 380px;\" src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"\" /></div>\r\n<h3><strong>Alice in Wonderland</strong></h3>\r\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">Dive into a rabbit hole in a fantasy world of anthropomorphic creatures</a></p>",
+		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 380px;\" src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"\" /></div>\n<h3><strong>Alice in Wonderland</strong></h3>\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">Dive into a rabbit hole in a fantasy world of anthropomorphic creatures</a></p>"
 	}
 }]]></widget_parameters>
     </sp_instance>

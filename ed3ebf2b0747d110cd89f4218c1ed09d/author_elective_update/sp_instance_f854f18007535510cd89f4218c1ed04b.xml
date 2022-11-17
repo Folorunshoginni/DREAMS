@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">d432bdcc07135510cd89f4218c1ed02a</sp_column>
+        <sp_widget display_value="Popular Topics">70a162c96be07410d70bc141ee44afba</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 13:46:30</sys_created_on>
+        <sys_id>f854f18007535510cd89f4218c1ed04b</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_instance_f854f18007535510cd89f4218c1ed04b</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 15:03:35</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters/>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=f854f18007535510cd89f4218c1ed04b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_instance_f854f18007535510cd89f4218c1ed04b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance"><sp_instance action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="2">d432bdcc07135510cd89f4218c1ed02a</sp_column><sp_widget display_value="Popular Topics">70a162c96be07410d70bc141ee44afba</sp_widget><sys_class_name>sp_instance</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-16 13:46:30</sys_created_on><sys_id>f854f18007535510cd89f4218c1ed04b</sys_id><sys_mod_count>3</sys_mod_count><sys_name/><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sp_instance_f854f18007535510cd89f4218c1ed04b</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-16 15:03:35</sys_updated_on><title/><url/><widget_parameters/></sp_instance><sys_translated_text action="delete_multiple" query="documentkey=f854f18007535510cd89f4218c1ed04b"/></record_update>]]></payload>
+        <payload_hash>-246759243</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 15:03:35</sys_created_on>
+        <sys_id>b9f5464407935510cd89f4218c1ed019</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18480f7840a0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 15:03:35</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>b1f546444f935510920f116e7a249a19</update_guid>
+        <update_guid_history>b1f546444f935510920f116e7a249a19:-246759243,4ebfbd4c195355100ecc487b3dd578b9:880617302,c98fb94cc0535510e05dcf53938ce005:-246759243,3854f18062535510f9efa0fbe1e8e54d:880617302</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">16760e4407935510cd89f4218c1ed06d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 15:05:49</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>53a8f70149b147d0a1a275aa55d94e84</sys_id>
+        <sys_metadata>f854f18007535510cd89f4218c1ed04b</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_instance_f854f18007535510cd89f4218c1ed04b</sys_update_name>
+        <sys_update_version display_value="sp_instance_f854f18007535510cd89f4218c1ed04b">b9f5464407935510cd89f4218c1ed019</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

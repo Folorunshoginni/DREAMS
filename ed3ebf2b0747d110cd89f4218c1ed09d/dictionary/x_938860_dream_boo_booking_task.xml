@@ -2,6 +2,7 @@
     <element db_object_id="d35bf040075b1510cd89f4218c1ed0c0" extends="task" label="booking task" max_length="40" name="x_938860_dream_boo_booking_task" type="collection">
         <element attributes="edge_encryption_enabled=true" label="ADDRESS" max_length="40" name="address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="ARRIVAL DATE" max_length="40" name="arrival_date" read_only="true" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="DEPARTURE DATE" mandatory="true" max_length="40" name="departure_date" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="DESTINATION" max_length="40" name="destination" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="EMAIL" max_length="40" name="email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="NAME" max_length="40" name="name" type="string"/>
