@@ -23,6 +23,12 @@ h3 {
     color: #000;
 }
 
+}
+
+.whiteText {
+    color: #FFFFFF;
+}
+
 #space {
 padding: 150px 0px;
 }
