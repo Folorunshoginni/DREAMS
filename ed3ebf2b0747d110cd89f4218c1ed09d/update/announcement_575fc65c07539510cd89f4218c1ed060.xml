@@ -6,17 +6,18 @@
         <details_link_text/>
         <details_page/>
         <details_url/>
-        <dismiss_options>not_dismissible</dismiss_options>
+        <dismiss_options>session_dismissible</dismiss_options>
         <display_first>false</display_first>
-        <display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style>
-        <from>2022-11-30 10:25:08</from>
+        <display_style display_value="CHRISTMAS SALE 20% ODER NOW!">c21abe5807179510cd89f4218c1ed049</display_style>
+        <from>2022-11-16 10:25:08</from>
         <glyph/>
         <glyph_alt_text/>
         <name>Christmas sale</name>
-        <public>true</public>
+        <public>false</public>
         <roles/>
         <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
-        <summary>Dream booking is having a christmas sale. Quickly buy your tickets and dont miss out!</summary>
+        <summary>DREAM BOOKING IS HAVING A CHRISTMAS SALE!&#13;
+Quickly buy your tickets and don't miss out!</summary>
         <sys_class_name>announcement</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-17 10:32:36</sys_created_on>
@@ -27,7 +28,7 @@
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
         <sys_update_name>announcement_575fc65c07539510cd89f4218c1ed060</sys_update_name>
         <title>Christmas sale 20% off now!</title>
-        <to/>
+        <to>2022-11-24 17:30:24</to>
         <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
     </announcement>
     <sys_translated_text action="delete_multiple" query="documentkey=575fc65c07539510cd89f4218c1ed060"/>
