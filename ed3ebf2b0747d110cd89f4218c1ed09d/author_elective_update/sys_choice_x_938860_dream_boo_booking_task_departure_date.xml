@@ -32,6 +32,38 @@
             <dependent_value/>
             <element>departure_date</element>
             <hint/>
+            <inactive>false</inactive>
+            <label>2022-12-09</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-17 10:53:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2022-12-9</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>departure_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2022-12-10</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-17 10:53:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2022-12-10</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>departure_date</element>
+            <hint/>
             <inactive>true</inactive>
             <label>2022-12-16</label>
             <language>en</language>
@@ -59,6 +91,38 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <value>2022-12-22</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>departure_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2022-12-13</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-17 10:53:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2022-27-27</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>departure_date</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2022-12-15</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-17 11:07:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>2022-12-15</value>
         </sys_choice>
     </sys_choice>
 </record_update>

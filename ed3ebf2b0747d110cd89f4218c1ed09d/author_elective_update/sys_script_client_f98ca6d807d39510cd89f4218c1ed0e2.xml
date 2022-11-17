@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>booking</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+    //Type appropriate comment here, and begin script below
+   var choiceValue = g_form.getValue('departure_date');
+    alert('choiceValue');
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 12:36:01</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f98ca6d807d39510cd89f4218c1ed0e2</sys_id>
+        <sys_mod_count>14</sys_mod_count>
+        <sys_name>booking</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sys_script_client_f98ca6d807d39510cd89f4218c1ed0e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 13:02:58</sys_updated_on>
+        <table>x_938860_dream_boo_booking_task</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sys_script_client_f98ca6d807d39510cd89f4218c1ed0e2</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;booking&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onSubmit() {
+    //Type appropriate comment here, and begin script below
+   var choiceValue = g_form.getValue('departure_date');
+    alert('choiceValue');
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-17 12:36:01&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;f98ca6d807d39510cd89f4218c1ed0e2&lt;/sys_id&gt;&lt;sys_mod_count&gt;14&lt;/sys_mod_count&gt;&lt;sys_name&gt;booking&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DREAM_BOOKING"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_f98ca6d807d39510cd89f4218c1ed0e2&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-17 13:02:58&lt;/sys_updated_on&gt;&lt;table&gt;x_938860_dream_boo_booking_task&lt;/table&gt;&lt;type&gt;onSubmit&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>748516297</payload_hash>
+        <record_name>booking</record_name>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 13:02:58</sys_created_on>
+        <sys_id>f4f372d007179510cd89f4218c1ed0f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18485af73630000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 13:02:58</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>fcf372d053179510b4738569cfea78f7</update_guid>
+        <update_guid_history>fcf372d053179510b4738569cfea78f7:748516297,73b3fa50ba17951079300e96ecd3658b:533975368,19237290b0179510411260dcd1159e04:1636900190,d8c2be105b1795101f73c6b5d6ff2e7b:-698227297,a382be10ec179510a15deaf9ad5987de:-1322395742,47b176104f1795103b1d287ebc85b27b:-1114603781,4651f6dc95d39510586dd3723d27bfd5:1988747355,57f0fedc37d39510dfad1b2c3adacb66:-1199748249,7aa0badc6cd39510ec31756c298f556f:559846453,e3407a9cb0d39510af10f8b50c0c5021:-145811102,c68f2a5cadd395102fc6afc8899bd1e2:-1841150415,495f669cf8d39510057514af31581e66:-839764797,5d9eae1c93d39510a023453e42c86850:1361319909,df0e6e1c1dd39510c882d8c25a631b82:-1295602437,71cd621c57d39510a390487be3235b84:-1153322596</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 13:05:54</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>790a469b158a47609bc1022054b08d10</sys_id>
+        <sys_metadata>f98ca6d807d39510cd89f4218c1ed0e2</sys_metadata>
+        <sys_name>booking</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent display_value="booking task">d35bf040075b1510cd89f4218c1ed0c0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sys_script_client_f98ca6d807d39510cd89f4218c1ed0e2</sys_update_name>
+        <sys_update_version display_value="sys_script_client_f98ca6d807d39510cd89f4218c1ed0e2">f4f372d007179510cd89f4218c1ed0f8</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

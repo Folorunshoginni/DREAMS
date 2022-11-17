@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>departure_date</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>departure date</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading)
+		return;
+
+	g_form.getReference('cmdb_ci',departure_date);
+	/* This grabs the record for the configuration item, then performs the below function using that record. See additional note below for usage tips. */
+
+	function departure_date(ci){
+		var name = ci.name + '';
+		// Check the name of the CI using regular expressions; 
+		// Set and lock Item type field based on the CI name.
+		if (departure_date.match('2022-12-05') || name.match('2022-12-16') || name.match('2022-12-22')) {
+			g_form.setValue('arrival_date', '2022-5-199');
+			g_form.setReadOnly('item_type', true);
+		} else if(name.match(/.*macbook.*/i)){
+			g_form.setValue('item_type', 'cmdb_ci_computer','Laptop');
+			g_form.setReadOnly('item_type', true);
+		} else {
+			g_form.setReadOnly('item_type', false);
+		}
+	}
+
+	/***** 
+	Yes, g_form.getReference() fell from grace as a recommended practice some releases ago. However, it is still broadly used in a pinch to fetch a single record without using the rigors of GlideAJAX; a quick code search will confirm hundreds of occurrences. Use with caution! For more information: 
+
+	https://developer.servicenow.com/dev.do#!/reference/api/tokyo/client/c_GlideFormAPI#r_GlideForm-GetReference_S_F 
+	*****/
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 15:01:58</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1d42ce0007935510cd89f4218c1ed09e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>departure date</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sys_script_client_1d42ce0007935510cd89f4218c1ed09e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 15:01:58</sys_updated_on>
+        <table>x_938860_dream_boo_booking_task</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sys_script_client_1d42ce0007935510cd89f4218c1ed09e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;departure_date&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;departure date&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading)
+		return;
+
+	g_form.getReference('cmdb_ci',departure_date);
+	/* This grabs the record for the configuration item, then performs the below function using that record. See additional note below for usage tips. */
+
+	function departure_date(ci){
+		var name = ci.name + '';
+		// Check the name of the CI using regular expressions; 
+		// Set and lock Item type field based on the CI name.
+		if (departure_date.match('2022-12-05') || name.match('2022-12-16') || name.match('2022-12-22')) {
+			g_form.setValue('arrival_date', '2022-5-199');
+			g_form.setReadOnly('item_type', true);
+		} else if(name.match(/.*macbook.*/i)){
+			g_form.setValue('item_type', 'cmdb_ci_computer','Laptop');
+			g_form.setReadOnly('item_type', true);
+		} else {
+			g_form.setReadOnly('item_type', false);
+		}
+	}
+
+	/***** 
+	Yes, g_form.getReference() fell from grace as a recommended practice some releases ago. However, it is still broadly used in a pinch to fetch a single record without using the rigors of GlideAJAX; a quick code search will confirm hundreds of occurrences. Use with caution! For more information: 
+
+	https://developer.servicenow.com/dev.do#!/reference/api/tokyo/client/c_GlideFormAPI#r_GlideForm-GetReference_S_F 
+	*****/
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-16 15:01:58&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;1d42ce0007935510cd89f4218c1ed09e&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;departure date&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DREAM_BOOKING"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_1d42ce0007935510cd89f4218c1ed09e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-16 15:01:58&lt;/sys_updated_on&gt;&lt;table&gt;x_938860_dream_boo_booking_task&lt;/table&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;0&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1645040561</payload_hash>
+        <record_name>departure date</record_name>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 15:01:58</sys_created_on>
+        <sys_id>8695860407935510cd89f4218c1ed0c1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18480f609fc0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 15:01:58</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>ce9586047c935510d2f2fa87213f34c0</update_guid>
+        <update_guid_history>ce9586047c935510d2f2fa87213f34c0:-1645040561</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 10:32:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>1bd75a2de9a44cf780ce8b0034876f71</sys_id>
+        <sys_metadata>1d42ce0007935510cd89f4218c1ed09e</sys_metadata>
+        <sys_name>departure date</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent display_value="booking task">d35bf040075b1510cd89f4218c1ed0c0</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sys_script_client_1d42ce0007935510cd89f4218c1ed09e</sys_update_name>
+        <sys_update_version display_value="sys_script_client_1d42ce0007935510cd89f4218c1ed09e">8695860407935510cd89f4218c1ed0c1</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

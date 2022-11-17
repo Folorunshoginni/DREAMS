@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="d35bf040075b1510cd89f4218c1ed0c0" extends="task" label="booking task" max_length="40" name="x_938860_dream_boo_booking_task" type="collection">
         <element attributes="edge_encryption_enabled=true" label="ADDRESS" max_length="40" name="address" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="ARRIVAL DATE" max_length="40" name="arrival_date" read_only="true" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="DEPARTURE DATE" mandatory="true" max_length="40" name="departure_date" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="arrival" max_length="40" name="arrival" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="arrival date" max_length="40" name="arrival_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="DEPARTURE DATE" mandatory="true" max_length="40" name="departure_date" type="string">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="2022-12-05" sequence="0" value="2022-12-05"/>
+                <element inactive_on_update="false" label="2022-12-09" sequence="0" value="2022-12-9"/>
+                <element inactive_on_update="false" label="2022-12-10" sequence="1" value="2022-12-10"/>
+                <element inactive="true" inactive_on_update="true" label="2022-12-16" sequence="1" value="2022-12-16"/>
+                <element inactive_on_update="false" label="2022-12-13" sequence="2" value="2022-27-27"/>
+                <element inactive="true" inactive_on_update="true" label="2022-12-22" sequence="2" value="2022-12-22"/>
+                <element inactive_on_update="false" label="2022-12-15" sequence="3" value="2022-12-15"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="DESTINATION" max_length="40" name="destination" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="EMAIL" max_length="40" name="email" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="NAME" max_length="40" name="name" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="DEPARTURE DATE" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Cancellation" max_length="1000" name="u_cancellation" type="string"/>
     </element>
 </database>

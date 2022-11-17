@@ -3,30 +3,34 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>set the arrival date field automatically</description>
-        <field>name</field>
+        <description/>
+        <field/>
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>set arrival date</name>
+        <name/>
         <order/>
-        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading) {
-   alert(g_form.getValue('name'));
+        <script><![CDATA[function onSubmit() {
+    //Type appropriate comment here, and begin script below
+    var dep = g_form.getValue('departure_date');
+    if (dep.match('2022-12-09')) {
+        alert("hello imam");
+    }
 }]]></script>
         <sys_class_name>sys_script_client</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-16 13:41:23</sys_created_on>
+        <sys_created_on>2022-11-17 12:24:42</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>3c90bd0c07135510cd89f4218c1ed098</sys_id>
-        <sys_name>set arrival date</sys_name>
+        <sys_id>7a1bee5807d39510cd89f4218c1ed060</sys_id>
+        <sys_name/>
         <sys_overrides/>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
-        <sys_update_name>sys_script_client_3c90bd0c07135510cd89f4218c1ed098</sys_update_name>
-        <table>x_938860_dream_boo_booking_task</table>
-        <type>onChange</type>
+        <sys_update_name>sys_script_client_7a1bee5807d39510cd89f4218c1ed060</sys_update_name>
+        <table/>
+        <type/>
         <ui_type>0</ui_type>
         <view/>
     </sys_script_client>

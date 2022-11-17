@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">b8a5d177070fd110cd89f4218c1ed032</sp_column>
+        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 09:52:38</sys_created_on>
+        <sys_id>ac68825407539510cd89f4218c1ed067</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>CHRISTMAS SALE!! 20% OFF</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_instance_ac68825407539510cd89f4218c1ed067</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 10:07:12</sys_updated_on>
+        <title>CHRISTMAS SALE!! 20% OFF</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"title": {
+		"value": "CHRISTMAS SALE!! 20% OFF",
+		"displayValue": "CHRISTMAS SALE!! 20% OFF"
+	},
+	"glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "67eaf134e7a3320075c2a117c2f6a9d2",
+		"displayValue": "Widget"
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": null,
+		"displayValue": ""
+	},
+	"view_all_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"use_display_style": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=ac68825407539510cd89f4218c1ed067"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_instance_ac68825407539510cd89f4218c1ed067</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;b8a5d177070fd110cd89f4218c1ed032&lt;/sp_column&gt;&lt;sp_widget display_value="Announcements"&gt;94c300c7e777320075c2a117c2f6a9e7&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-17 09:52:38&lt;/sys_created_on&gt;&lt;sys_id&gt;ac68825407539510cd89f4218c1ed067&lt;/sys_id&gt;&lt;sys_mod_count&gt;3&lt;/sys_mod_count&gt;&lt;sys_name&gt;CHRISTMAS SALE!! 20% OFF&lt;/sys_name&gt;&lt;sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DREAM_BOOKING"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_ac68825407539510cd89f4218c1ed067&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-17 10:07:12&lt;/sys_updated_on&gt;&lt;title&gt;CHRISTMAS SALE!! 20% OFF&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"title": {
+		"value": "CHRISTMAS SALE!! 20% OFF",
+		"displayValue": "CHRISTMAS SALE!! 20% OFF"
+	},
+	"glyph": {
+		"value": "",
+		"displayValue": ""
+	},
+	"type": {
+		"value": "67eaf134e7a3320075c2a117c2f6a9d2",
+		"displayValue": "Widget"
+	},
+	"paginate": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"max_records": {
+		"value": null,
+		"displayValue": ""
+	},
+	"view_all_page": {
+		"value": "",
+		"displayValue": ""
+	},
+	"use_display_style": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ac68825407539510cd89f4218c1ed067"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-659560675</payload_hash>
+        <record_name>CHRISTMAS SALE!! 20% OFF</record_name>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 10:07:13</sys_created_on>
+        <sys_id>02bb865807539510cd89f4218c1ed0ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184850e89f90000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 10:07:13</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>0abb86582153951034a1a2b088297faa</update_guid>
+        <update_guid_history>0abb86582153951034a1a2b088297faa:-659560675,a88b825848539510e255c672f6a93a88:739173722,33e94a94ae539510fb4e9f9f0661a5b4:-1667545311,f8688254265395107ffba233b4994569:1308697559</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="CHRISTMAS SALE!! 20% OFF">53cc0a9807539510cd89f4218c1ed0a0</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 10:11:56</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0b56a1a52da444988ce65532e16b3810</sys_id>
+        <sys_metadata>ac68825407539510cd89f4218c1ed067</sys_metadata>
+        <sys_name>CHRISTMAS SALE!! 20% OFF</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_instance_ac68825407539510cd89f4218c1ed067</sys_update_name>
+        <sys_update_version display_value="sp_instance_ac68825407539510cd89f4218c1ed067">02bb865807539510cd89f4218c1ed0ab</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
