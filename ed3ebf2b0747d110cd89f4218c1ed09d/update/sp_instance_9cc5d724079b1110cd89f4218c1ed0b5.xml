@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<h1 style=\"text-align: center;\"><strong>Frozen experience</strong></h1>\r\n<div id=\"gtx-trans\" style=\"position: absolute; left: 274px; top: -5.7625px;\">\r\n<div class=\"gtx-trans-icon\">&nbsp;</div>\r\n</div>",
-		"displayValue": "<h1 style=\"text-align: center;\"><strong>Frozen experienc</strong></h1>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 274px; top: -5.7625px;\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>"
+		"value": "<h1 style=\"text-align: center;\"><strong>The Lord of the Rings </strong></h1>\r\n<div id=\"gtx-trans\" style=\"position: absolute; left: 333px; top: 65.6375px;\">\r\n<div class=\"gtx-trans-icon\">&nbsp;</div>\r\n</div>",
+		"displayValue": "<h1 style=\"text-align: center;\"><strong>The Lord of the Rings </strong></h1>\n<div id=\"gtx-trans\" style=\"position: absolute; left: 333px; top: 65.6375px;\">\n<div class=\"gtx-trans-icon\">&nbsp;</div>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

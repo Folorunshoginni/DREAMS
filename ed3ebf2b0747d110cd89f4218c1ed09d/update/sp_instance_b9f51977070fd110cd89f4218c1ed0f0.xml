@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Frozen.jpg\" alt=\"\" /></div>\r\n<h3><strong>Frozen</strong></h3>\r\n<p style=\"text-align: center;\"><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">Animated musical fantasy</a></p>",
-		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Frozen.jpg\" alt=\"\" /></div>\n<h3><strong>Frozen</strong></h3>\n<p style=\"text-align: center;\"><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">Animated musical fantasy</a></p>"
+		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Frozen.jpg\" alt=\"\" /></div>\r\n<h3><strong>Frozen</strong></h3>\r\n<p style=\"text-align: center;\"><a href=\"https://dev17957.service-now.com/db/?id=frozen\" target=\"_blank\" rel=\"noopener\">Animated musical fantasy</a></p>",
+		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Frozen.jpg\" alt=\"\" /></div>\n<h3><strong>Frozen</strong></h3>\n<p style=\"text-align: center;\"><a href=\"https://dev17957.service-now.com/db/?id=frozen\" target=\"_blank\" rel=\"noopener\">Animated musical fantasy</a></p>"
 	}
 }]]></widget_parameters>
     </sp_instance>

@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<p>Alice in Wonderland experience is a property with family atmosphere, with 200 Junior Suites distributed in a 25-storey building. Located at Benidorm city, it is designed to be enjoyed with the multigenerational family as it combines a program of special activities with facilities for all ages. The spacious and comfortable rooms give guests the feeling of being at home. In addition, for those who travel as a couple, alone or retired, it offers the possibility to enjoy the Select Service,an exclusive space with different benefits.</p>",
-		"displayValue": "<p>Alice in Wonderland experience is a property with family atmosphere, with 200 Junior Suites distributed in a 25-storey building.Located at Benidorm city, it is designed to be enjoyed with the multigenerational family as it combines a program of special activities with facilities for all ages. The spacious and comfortable rooms give guests the feeling of being at home. In addition, for those who travel as a couple, alone or retired, it offers the possibility to enjoy the Select Service,an exclusive space with different benefits.</p>"
+		"value": "<p style=\"text-align: center;\">The Lord of the Rings is an epic[1] high-fantasy novel[a] by English author and scholar J. R. R. Tolkien. Set in Middle-earth, intended to be Earth at some time in the distant past, the story began as a sequel to Tolkien's 1937 children's book The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949,</p>",
+		"displayValue": "<p style=\"text-align: center;\">The Lord of the Rings is an epic[1] high-fantasy novel[a] by English author and scholar J. R. R. Tolkien. Set in Middle-earth, intended to be Earth at some time in the distant past, the story began as a sequel to Tolkien's 1937 children's book The Hobbit, but eventually developed into a much larger work. Written in stages between 1937 and 1949,</p>"
 	}
 }]]></widget_parameters>
     </sp_instance>

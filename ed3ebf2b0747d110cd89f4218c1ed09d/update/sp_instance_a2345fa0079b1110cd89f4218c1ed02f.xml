@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 330px;\" src=\"frozen2.jpg\" alt=\"\" /></div>",
-		"displayValue": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 330px;\" src=\"frozen2.jpg\" alt=\"\" /></div>"
+		"value": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 330px;\" src=\"back.jpg\" alt=\"\" /></div>",
+		"displayValue": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 330px;\" src=\"back.jpg\" alt=\"\" /></div>"
 	}
 }]]></widget_parameters>
     </sp_instance>
