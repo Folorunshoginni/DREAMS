@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
     <sp_page action="INSERT_OR_UPDATE">
         <category>custom</category>
-        <css/>
+        <css>p {
+  font-size: 1em;
+  padding: 15px 0px;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+
+h3, h1 {
+  font-size: 2em;
+  padding: 15px 0px;
+  color: #fff;
+  text-align: center;
+}</css>
         <draft>false</draft>
         <dynamic_title_structure/>
         <id>alice_in_wonderland</id>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color>#000000</background_color>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Alice in Wonderland - Container 4</name>
+        <order>4</order>
+        <sp_page display_value="alice_in_wonderland">32c615b7070fd110cd89f4218c1ed06c</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 10:29:23</sys_created_on>
+        <sys_id>47c05e9c07539510cd89f4218c1ed07e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Alice in Wonderland - Container 4</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_container_47c05e9c07539510cd89f4218c1ed07e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 10:29:32</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_container_47c05e9c07539510cd89f4218c1ed07e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color>#000000</background_color><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Alice in Wonderland - Container 4</name><order>4</order><sp_page display_value="alice_in_wonderland">32c615b7070fd110cd89f4218c1ed06c</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-17 10:29:23</sys_created_on><sys_id>47c05e9c07539510cd89f4218c1ed07e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>Alice in Wonderland - Container 4</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sp_container_47c05e9c07539510cd89f4218c1ed07e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-17 10:29:32</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>673125580</payload_hash>
+        <record_name>Alice in Wonderland - Container 4</record_name>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-17 10:29:33</sys_created_on>
+        <sys_id>95d05a9c07539510cd89f4218c1ed0c3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848522facb0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-17 10:29:33</sys_updated_on>
+        <type>Container</type>
+        <update_guid>9dd05a9c4b53951069feda146105b7c2</update_guid>
+        <update_guid_history>9dd05a9c4b53951069feda146105b7c2:673125580,0fc05e9cdb539510b58caa97cdf6597f:-1889559475</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Alice in Wonderland - Container 4">6e4c83a8075b1110cd89f4218c1ed05a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 09:27:48</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>56899ced2595465ea5bd208cf0cb4884</sys_id>
+        <sys_metadata>47c05e9c07539510cd89f4218c1ed07e</sys_metadata>
+        <sys_name>Alice in Wonderland - Container 4</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_container_47c05e9c07539510cd89f4218c1ed07e</sys_update_name>
+        <sys_update_version display_value="sp_container_47c05e9c07539510cd89f4218c1ed07e">95d05a9c07539510cd89f4218c1ed0c3</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
