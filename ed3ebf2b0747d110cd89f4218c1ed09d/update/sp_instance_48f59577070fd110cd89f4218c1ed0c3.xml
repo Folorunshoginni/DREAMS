@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jumanji.jpg\" alt=\"\" /></div>\r\n<h3><strong>Jumanji</strong></h3>\r\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">American fantasy adventure</a></p>",
-		"displayValue": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jumanji.jpg\" alt=\"\" /></div>\n<h3><strong>Jumanji</strong></h3>\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">American fantasy adventure</a></p>"
+		"value": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jumanji.jpg\" alt=\"\" /></div>\r\n<h3><strong>Jumanji</strong></h3>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=jumanji\" target=\"_blank\" rel=\"noopener\">American fantasy adventure</a></p>",
+		"displayValue": "<div id=\"story\" style=\"text-align: center;\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jumanji.jpg\" alt=\"\" /></div>\n<h3><strong>Jumanji</strong></h3>\n<p><a href=\"https://dev17957.service-now.com/db/?id=jumanji\" target=\"_blank\" rel=\"noopener\">American fantasy adventure</a></p>"
 	}
 }]]></widget_parameters>
     </sp_instance>

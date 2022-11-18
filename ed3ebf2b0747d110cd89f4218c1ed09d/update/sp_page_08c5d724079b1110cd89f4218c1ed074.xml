@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>p {
+  font-size: 1em;
+  padding: 15px 0px;
+  color: #fff;
+  text-align: center;
+}
+
+
+
+
+h3, h1 {
+  font-size: 2em;
+  padding: 15px 0px;
+  color: #fff;
+  text-align: center;
+}
+
+#story img {
+  margin-top: 80px;
+  margin-bottom: 20px;
+  margin-left: 50px;
+}
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>lord_rings</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 10:09:09</sys_created_on>
+        <sys_id>08c5d724079b1110cd89f4218c1ed074</sys_id>
+        <sys_name>lord_rings</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_page_08c5d724079b1110cd89f4218c1ed074</sys_update_name>
+        <title>Lord of the Rings</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=08c5d724079b1110cd89f4218c1ed074"/>
+</record_update>

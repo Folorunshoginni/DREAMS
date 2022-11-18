@@ -10,28 +10,28 @@
         <image/>
         <link_type>LIST</link_type>
         <map_page/>
-        <mobile_title>dream_bookings</mobile_title>
+        <mobile_title>Cancellations</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
-        <name>x_938860_dream_boo_dream_booking</name>
-        <order/>
+        <name>x_938860_dream_boo_cancellations</name>
+        <order>200</order>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
-        <roles>x_938860_dream_boo.dream_booking_user</roles>
+        <roles/>
         <sys_class_name>sys_app_module</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-15 11:39:58</sys_created_on>
+        <sys_created_on>2022-11-18 11:27:38</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>95cd4433070bd110cd89f4218c1ed094</sys_id>
-        <sys_name>Tasks</sys_name>
+        <sys_id>4147abe407db1110cd89f4218c1ed054</sys_id>
+        <sys_name>Cancellations</sys_name>
         <sys_overrides/>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
-        <sys_update_name>sys_app_module_95cd4433070bd110cd89f4218c1ed094</sys_update_name>
+        <sys_update_name>sys_app_module_4147abe407db1110cd89f4218c1ed054</sys_update_name>
         <timeline_page/>
-        <title>Tasks</title>
+        <title>Cancellations</title>
         <uncancelable>false</uncancelable>
         <view_name/>
         <window_name/>

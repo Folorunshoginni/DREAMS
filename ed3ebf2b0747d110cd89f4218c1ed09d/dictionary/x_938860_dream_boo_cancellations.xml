@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4b0a9f28079b1110cd89f4218c1ed057" extends="task" label="Cancellations" max_length="40" name="x_938860_dream_boo_cancellations" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Arrival Date" mandatory="true" max_length="40" name="u_arrival_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Cancellation Details" mandatory="true" max_length="40" name="u_cancellation_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Departure Date" mandatory="true" max_length="40" name="u_departure_date" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="harry potter" label="Destination" mandatory="true" max_length="40" name="u_destination" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Harry Potter" sequence="0" value="harry potter"/>
+                <element inactive_on_update="false" label="Jumanji" sequence="1" value="jumanji"/>
+                <element inactive_on_update="false" label="Lord of the Rings" sequence="2" value="lord of the rings"/>
+                <element inactive_on_update="false" label="Frozen" sequence="3" value="frozen"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Email Address" mandatory="true" max_length="40" name="u_email_address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Name" mandatory="true" max_length="40" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Reason for cancellation" mandatory="true" max_length="1000" name="u_reason_cancellation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="New String" max_length="40" name="u_string_7" type="string"/>
+    </element>
+</database>
