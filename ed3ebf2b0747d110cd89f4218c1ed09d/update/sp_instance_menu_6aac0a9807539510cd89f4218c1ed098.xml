@@ -25,15 +25,15 @@
         <url/>
         <widget_parameters><![CDATA[{
    "enable_cart":{
-		"displayValue":"true",
-		"value":true
+		"displayValue":"false",
+		"value":false
 	},
 	"exclude_search_on_homepage":{
 		"displayValue":"true",
 		"value":true
 	},
 	"enable_requests":{
-		"displayValue":"true",
+		"displayValue":"false",
 		"value":true
 	},
     "enable_tasks":{
