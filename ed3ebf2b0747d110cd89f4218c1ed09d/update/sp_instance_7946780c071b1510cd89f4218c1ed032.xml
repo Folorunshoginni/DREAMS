@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jurassic%20Park.jpg\" alt=\"\" /></div>\r\n<h3><strong>Jurassic Park</strong></h3>\r\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\"> Enter the theme park world of dinosaurs</a></p>",
-		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jurassic%20Park.jpg\" alt=\"\" /></div>\n<h3><strong>Jurassic Park</strong></h3>\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\"> Enter the theme park world of dinosaurs</a></p>"
+		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jurassic%20Park.jpg\" alt=\"\" />\r\n<h3><strong>Jurassic Park</strong></h3>\r\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\"> Enter the theme park world of dinosaurs</a></p>\r\n</div>",
+		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Jurassic%20Park.jpg\" alt=\"\" />\n<h3><strong>Jurassic Park</strong></h3>\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\"> Enter the theme park world of dinosaurs</a></p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

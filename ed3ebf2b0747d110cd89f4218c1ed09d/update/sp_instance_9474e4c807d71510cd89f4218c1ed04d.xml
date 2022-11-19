@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"Harry%20Potter.jpg\" alt=\"\" /></div>\r\n<h3><strong>Harry Potter</strong></h3>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=harry_potter\" target=\"_blank\" rel=\"noopener\">Explore numerous themes &amp; fantasies</a></p>",
-		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"Harry%20Potter.jpg\" alt=\"\" /></div>\n<h3><strong>Harry Potter</strong></h3>\n<p><a href=\"https://dev17957.service-now.com/db/?id=harry_potter\" target=\"_blank\" rel=\"noopener\">Explore numerous themes &amp; fantasies</a></p>"
+		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"Harry%20Potter.jpg\" alt=\"\" />\r\n<h3><strong>Harry Potter</strong></h3>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=harry_potter\" target=\"_blank\" rel=\"noopener\">Explore numerous themes &amp; fantasies</a></p>\r\n</div>",
+		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"Harry%20Potter.jpg\" alt=\"\" />\n<h3><strong>Harry Potter</strong></h3>\n<p><a href=\"https://dev17957.service-now.com/db/?id=harry_potter\" target=\"_blank\" rel=\"noopener\">Explore numerous themes &amp; fantasies</a></p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

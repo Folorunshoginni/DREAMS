@@ -7,7 +7,7 @@
         <hint/>
         <name>dream_booking</name>
         <order>100</order>
-        <roles>x_938860_dream_boo.dream_booking_user</roles>
+        <roles>x_938860_dream_boo.booking_task_user,x_938860_dream_boo.cancellations_user</roles>
         <sys_class_name>sys_app_application</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-15 11:39:58</sys_created_on>

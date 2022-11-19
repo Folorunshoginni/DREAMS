@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Lord%20of%20the%20rings.jpg\" alt=\"\" /></div>\r\n<h3><strong>Lord of the Rings</strong></h3>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=lord_rings\" target=\"_blank\" rel=\"noopener\"> Fly away to your dream land</a></p>",
-		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Lord%20of%20the%20rings.jpg\" alt=\"\" /></div>\n<h3><strong>Lord of the Rings</strong></h3>\n<p><a href=\"https://dev17957.service-now.com/db/?id=lord_rings\" target=\"_blank\" rel=\"noopener\"> Fly away to your dream land</a></p>"
+		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Lord%20of%20the%20rings.jpg\" alt=\"\" />\r\n<h3><strong>Lord of the Rings</strong></h3>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=lord_rings\" target=\"_blank\" rel=\"noopener\"> Fly away to your dream land</a></p>\r\n</div>",
+		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 480px;\" src=\"x_938860_dream_boo.Lord%20of%20the%20rings.jpg\" alt=\"\" />\n<h3><strong>Lord of the Rings</strong></h3>\n<p><a href=\"https://dev17957.service-now.com/db/?id=lord_rings\" target=\"_blank\" rel=\"noopener\"> Fly away to your dream land</a></p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

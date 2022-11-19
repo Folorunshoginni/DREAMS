@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="DELETE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_938860_dream_boo_dream_booking</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 10:49:29</sys_created_on>
+        <sys_id>4e32087707c7d110cd89f4218c1ed02e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_938860_dream_boo_dream_booking</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>ua_table_licensing_config_4e32087707c7d110cd89f4218c1ed02e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 10:49:29</sys_updated_on>
+    </ua_table_licensing_config>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>ua_table_licensing_config_4e32087707c7d110cd89f4218c1ed02e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config"><ua_table_licensing_config action="DELETE"><is_fulfillment>false</is_fulfillment><license_condition/><license_model>none</license_model><license_roles/><name>x_938860_dream_boo_dream_booking</name><op_delete>true</op_delete><op_insert>true</op_insert><op_update>true</op_update><owner_condition/><sys_class_name>ua_table_licensing_config</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 10:49:29</sys_created_on><sys_id>4e32087707c7d110cd89f4218c1ed02e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_938860_dream_boo_dream_booking</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>ua_table_licensing_config_4e32087707c7d110cd89f4218c1ed02e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 10:49:29</sys_updated_on></ua_table_licensing_config></record_update>]]></payload>
+        <payload_hash>-31581061</payload_hash>
+        <record_name>x_938860_dream_boo_dream_booking</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 11:38:30</sys_created_on>
+        <sys_id>bb6dccff07c7d110cd89f4218c1ed0de</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847b1565a70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 11:38:30</sys_updated_on>
+        <type>Table Subscription Configuration</type>
+        <update_guid>f36dccff96c7d110e36ec6cdb8822bde</update_guid>
+        <update_guid_history>f36dccff96c7d110e36ec6cdb8822bde:-31581061</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 12:52:45</sys_created_on>
+        <sys_db_object display_value="" name="ua_table_licensing_config">ua_table_licensing_config</sys_db_object>
+        <sys_id>030d2947de484062a42410446ada0db1</sys_id>
+        <sys_metadata>4e32087707c7d110cd89f4218c1ed02e</sys_metadata>
+        <sys_name>x_938860_dream_boo_dream_booking</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>ua_table_licensing_config_4e32087707c7d110cd89f4218c1ed02e</sys_update_name>
+        <sys_update_version display_value="ua_table_licensing_config_4e32087707c7d110cd89f4218c1ed02e">bb6dccff07c7d110cd89f4218c1ed0de</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
