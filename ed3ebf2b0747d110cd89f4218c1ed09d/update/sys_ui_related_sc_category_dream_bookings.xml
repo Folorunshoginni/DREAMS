@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="sc_category" version="2" view="dream_bookings">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Category - Dream Bookings" name="sc_category" related_list="NULL" sys_domain="global" view="dafb918907539110cd89f4218c1ed0e3">ea0c198907539110cd89f4218c1ed09e</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>sc_cat_item_category.sc_category</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-19 14:34:20</sys_created_on>
+            <sys_id>a60c198907539110cd89f4218c1ed09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-19 14:34:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Category - Dream Bookings" name="sc_category" related_list="NULL" sys_domain="global" view="dafb918907539110cd89f4218c1ed0e3">ea0c198907539110cd89f4218c1ed09e</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>sc_category.parent</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-19 14:34:20</sys_created_on>
+            <sys_id>aa0c198907539110cd89f4218c1ed09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-19 14:34:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Category - Dream Bookings" name="sc_category" related_list="NULL" sys_domain="global" view="dafb918907539110cd89f4218c1ed0e3">ea0c198907539110cd89f4218c1ed09e</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>sc_category_user_criteria_mtom.sc_category</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-19 14:34:20</sys_created_on>
+            <sys_id>ae0c198907539110cd89f4218c1ed09f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-19 14:34:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Category - Dream Bookings" name="sc_category" related_list="NULL" sys_domain="global" view="dafb918907539110cd89f4218c1ed0e3">ea0c198907539110cd89f4218c1ed09e</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>sc_category_user_criteria_no_mtom.sc_category</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-19 14:34:20</sys_created_on>
+            <sys_id>a20c198907539110cd89f4218c1ed0a0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-11-19 14:34:20</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Category - Dream Bookings</calculated_name>
+            <filter/>
+            <name>sc_category</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-19 14:34:20</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ea0c198907539110cd89f4218c1ed09e</sys_id>
+            <sys_name>Category - Dream Bookings</sys_name>
+            <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+            <sys_update_name>sys_ui_related_sc_category_dream_bookings</sys_update_name>
+            <sys_user/>
+            <view display_value="Dream Bookings" name="dream_bookings">dafb918907539110cd89f4218c1ed0e3</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>

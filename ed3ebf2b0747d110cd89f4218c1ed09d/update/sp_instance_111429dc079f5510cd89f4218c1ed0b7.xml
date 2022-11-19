@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Movie.jpg\" alt=\"\" />\r\n<p class=\"blackText\">Book a holiday experience at one of our movie-themed holiday resorts.</p>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=sc_category&amp;sys_id=e15706fc0a0a0aa7007fc21e1ab70c2f&amp;catalog_id=-1&amp;spa=1\" target=\"_blank\" rel=\"noopener\">Investigate our latest deals</a></p>\r\n</div>",
-		"displayValue": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Movie.jpg\" alt=\"\" />\n<p class=\"blackText\">Book a holiday experience at one of our movie-themed holiday resorts.</p>\n<p><a href=\"https://dev17957.service-now.com/db/?id=sc_category&amp;sys_id=e15706fc0a0a0aa7007fc21e1ab70c2f&amp;catalog_id=-1&amp;spa=1\" target=\"_blank\" rel=\"noopener\">Investigate our latest deals</a></p>\n</div>"
+		"value": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Movie.jpg\" alt=\"\" />\r\n<p class=\"blackText\">Book a holiday experience at one of our movie-themed holiday resorts.</p>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=sc_category&amp;sys_id=4705f00507df5110cd89f4218c1ed0da&amp;catalog_id=-1&amp;spa=1\" target=\"_blank\" rel=\"noopener\">Investigate our latest deals</a></p>\r\n</div>",
+		"displayValue": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Movie.jpg\" alt=\"\" />\n<p class=\"blackText\">Book a holiday experience at one of our movie-themed holiday resorts.</p>\n<p><a href=\"https://dev17957.service-now.com/db/?id=sc_category&amp;sys_id=4705f00507df5110cd89f4218c1ed0da&amp;catalog_id=-1&amp;spa=1\" target=\"_blank\" rel=\"noopener\">Investigate our latest deals</a></p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>
