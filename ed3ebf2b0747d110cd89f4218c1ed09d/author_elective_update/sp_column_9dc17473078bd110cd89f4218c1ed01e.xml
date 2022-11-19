@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name>m-t-xl</class_name>
+        <order>2</order>
+        <size>4</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">55c17473078bd110cd89f4218c1ed017</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:17:15</sys_created_on>
+        <sys_id>9dc17473078bd110cd89f4218c1ed01e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_column_9dc17473078bd110cd89f4218c1ed01e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:17:15</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_column_9dc17473078bd110cd89f4218c1ed01e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name>m-t-xl</class_name><order>2</order><size>4</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">55c17473078bd110cd89f4218c1ed017</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 14:17:15</sys_created_on><sys_id>9dc17473078bd110cd89f4218c1ed01e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>2</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sp_column_9dc17473078bd110cd89f4218c1ed01e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 14:17:15</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>-150191738</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:17:15</sys_created_on>
+        <sys_id>91c17473078bd110cd89f4218c1ed020</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847ba6bc120000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:17:15</sys_updated_on>
+        <type>Column</type>
+        <update_guid>d9c174732f8bd11064e050269cb8d71f</update_guid>
+        <update_guid_history>d9c174732f8bd11064e050269cb8d71f:-150191738</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="2">5badb54d07d39110cd89f4218c1ed011</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 17:01:18</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>008e5ee8d7224d18824f022fe6da4310</sys_id>
+        <sys_metadata>9dc17473078bd110cd89f4218c1ed01e</sys_metadata>
+        <sys_name>2</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_column_9dc17473078bd110cd89f4218c1ed01e</sys_update_name>
+        <sys_update_version display_value="sp_column_9dc17473078bd110cd89f4218c1ed01e">91c17473078bd110cd89f4218c1ed020</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

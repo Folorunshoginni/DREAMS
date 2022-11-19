@@ -4,7 +4,7 @@
         <class_name/>
         <color>default</color>
         <css/>
-        <glyph>search-minus</glyph>
+        <glyph>cc-visa</glyph>
         <id/>
         <kb_article/>
         <kb_category/>
@@ -13,27 +13,27 @@
         <roles/>
         <sc_cat_item/>
         <sc_category/>
-        <short_description>Request a cancellation</short_description>
+        <short_description/>
         <size>md</size>
         <sp_column display_value="2">3ae1ed5c079f5510cd89f4218c1ed060</sp_column>
-        <sp_page/>
+        <sp_page display_value="holiday_packages">30addf2c079b1110cd89f4218c1ed04d</sp_page>
         <sp_widget display_value="Dream icon link">42c18fac071b1110cd89f4218c1ed0cd</sp_widget>
         <sys_class_name>sp_instance_link</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-11-19 15:41:00</sys_created_on>
         <sys_id>4b4bad8907939110cd89f4218c1ed07b</sys_id>
-        <sys_name/>
+        <sys_name>Request a cancellation for your holiday booking</sys_name>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
         <sys_update_name>sp_instance_link_4b4bad8907939110cd89f4218c1ed07b</sys_update_name>
-        <title/>
+        <title>Request a cancellation for your holiday booking</title>
         <type>page</type>
         <url/>
         <widget_parameters><![CDATA[{
 	"link_template": {
 		"value": "",
-		"displayValue": ""
+		"displayValue": "-- None --"
 	}
 }]]></widget_parameters>
     </sp_instance_link>

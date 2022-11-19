@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css>.input-group {
+  margin-bottom: 25px;
+}
+
+input, button {
+  background-color: rgba(138, 143, 160, 0.6);
+  color:#fff !important;
+  font-weight: 300;
+  border-color:rgba(255, 255, 255, 0.3);
+}
+
+input::-webkit-input-placeholder {
+  color: #fff !important;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+  color: #fff !important;  
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+  color: #fff !important;  
+}
+
+input:-ms-input-placeholder {  
+  color: #fff !important;  
+}</css>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph>search</glyph>
+        <id/>
+        <order>0</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>lg</size>
+        <sp_column display_value="2">9dc17473078bd110cd89f4218c1ed01e</sp_column>
+        <sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget>
+        <spell_check_font_size>xl</spell_check_font_size>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:17:15</sys_created_on>
+        <sys_id>d9c17473078bd110cd89f4218c1ed020</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Search the knowledge base</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_instance_ais_d9c17473078bd110cd89f4218c1ed020</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:17:15</sys_updated_on>
+        <title>Search the knowledge base</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=d9c17473078bd110cd89f4218c1ed020"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_instance_ais_d9c17473078bd110cd89f4218c1ed020</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais"><sp_instance_ais action="INSERT_OR_UPDATE"><active>true</active><ai_search_source_filter/><class_name/><color>default</color><css>.input-group {
+  margin-bottom: 25px;
+}
+
+input, button {
+  background-color: rgba(138, 143, 160, 0.6);
+  color:#fff !important;
+  font-weight: 300;
+  border-color:rgba(255, 255, 255, 0.3);
+}
+
+input::-webkit-input-placeholder {
+  color: #fff !important;
+}
+
+input:-moz-placeholder { /* Firefox 18- */
+  color: #fff !important;  
+}
+
+input::-moz-placeholder {  /* Firefox 19+ */
+  color: #fff !important;  
+}
+
+input:-ms-input-placeholder {  
+  color: #fff !important;  
+}</css><disable_all_suggestions>false</disable_all_suggestions><glyph>search</glyph><id/><order>0</order><placeholder/><roles/><search_application/><search_results_configuration/><short_description/><size>lg</size><sp_column display_value="2">9dc17473078bd110cd89f4218c1ed01e</sp_column><sp_widget display_value="Typeahead Search">fa20ec02cb31020000f8d856634c9ce9</sp_widget><spell_check_font_size>xl</spell_check_font_size><sys_class_name>sp_instance_ais</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 14:17:15</sys_created_on><sys_id>d9c17473078bd110cd89f4218c1ed020</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Search the knowledge base</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sp_instance_ais_d9c17473078bd110cd89f4218c1ed020</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 14:17:15</sys_updated_on><title>Search the knowledge base</title><url/><widget_parameters/></sp_instance_ais><sys_translated_text action="delete_multiple" query="documentkey=d9c17473078bd110cd89f4218c1ed020"/></record_update>]]></payload>
+        <payload_hash>1239226039</payload_hash>
+        <record_name>Search the knowledge base</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:17:15</sys_created_on>
+        <sys_id>d1c17473078bd110cd89f4218c1ed022</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847ba6bc480000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:17:15</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>1dc17473bf8bd11077a70d1ca361a821</update_guid>
+        <update_guid_history>1dc17473bf8bd11077a70d1ca361a821:1239226039</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Search the knowledge base">d7adb54d07d39110cd89f4218c1ed00d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 17:01:18</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>3c284b37db9147f0a542d5399b8f0ae4</sys_id>
+        <sys_metadata>d9c17473078bd110cd89f4218c1ed020</sys_metadata>
+        <sys_name>Search the knowledge base</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_d9c17473078bd110cd89f4218c1ed020</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_d9c17473078bd110cd89f4218c1ed020">d1c17473078bd110cd89f4218c1ed022</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

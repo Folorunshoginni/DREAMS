@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">d7ad5b2c079b1110cd89f4218c1ed0d5</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 11:49:43</sys_created_on>
+        <sys_id>d1cce3ac07db1110cd89f4218c1ed0c0</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_instance_d1cce3ac07db1110cd89f4218c1ed0c0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-18 11:53:21</sys_updated_on>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<h3>Holiday Packages</h3>\r\n<p>You can browse the holiday packages and request cancellations in 'Can we Help You'</p>\r\n<p>&nbsp;</p>",
+		"displayValue": "<h3>Holiday Packages</h3>\n<p>You can browse the holiday packages and request cancellations in 'Can we Help You'</p>\n<p>&nbsp;</p>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=d1cce3ac07db1110cd89f4218c1ed0c0"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_instance_d1cce3ac07db1110cd89f4218c1ed0c0</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;d7ad5b2c079b1110cd89f4218c1ed0d5&lt;/sp_column&gt;&lt;sp_widget display_value="HTML"&gt;8679ef89cb21120000f8d856634c9c4f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-11-18 11:49:43&lt;/sys_created_on&gt;&lt;sys_id&gt;d1cce3ac07db1110cd89f4218c1ed0c0&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name/&gt;&lt;sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="DREAM_BOOKING"&gt;ed3ebf2b0747d110cd89f4218c1ed09d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_d1cce3ac07db1110cd89f4218c1ed0c0&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-11-18 11:53:21&lt;/sys_updated_on&gt;&lt;title/&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"html": {
+		"value": "&lt;h3&gt;Holiday Packages&lt;/h3&gt;\r\n&lt;p&gt;You can browse the holiday packages and request cancellations in 'Can we Help You'&lt;/p&gt;\r\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+		"displayValue": "&lt;h3&gt;Holiday Packages&lt;/h3&gt;\n&lt;p&gt;You can browse the holiday packages and request cancellations in 'Can we Help You'&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=d1cce3ac07db1110cd89f4218c1ed0c0"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1693110989</payload_hash>
+        <record_name/>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 11:53:22</sys_created_on>
+        <sys_id>369de3ec07db1110cd89f4218c1ed0ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848a9614680000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-18 11:53:22</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>3e9de3ece4db11100ab601377c98f0eb</update_guid>
+        <update_guid_history>3e9de3ece4db11100ab601377c98f0eb:1693110989,401de7ac63db1110568f84d521aaf067:-1522968457,9dcce3ac77db1110fa6510ce7d0d5ac1:-2001878147</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">3fcdf14d07d39110cd89f4218c1ed0ac</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 17:01:53</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>03e269ca14854ed88b77217eadf1caa4</sys_id>
+        <sys_metadata>d1cce3ac07db1110cd89f4218c1ed0c0</sys_metadata>
+        <sys_name/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_instance_d1cce3ac07db1110cd89f4218c1ed0c0</sys_update_name>
+        <sys_update_version display_value="sp_instance_d1cce3ac07db1110cd89f4218c1ed0c0">369de3ec07db1110cd89f4218c1ed0ec</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

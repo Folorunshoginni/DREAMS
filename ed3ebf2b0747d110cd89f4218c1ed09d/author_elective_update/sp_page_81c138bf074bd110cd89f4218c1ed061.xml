@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>other</category>
+        <css>main.page, main.body {
+  height: 99vh;
+  min-height: 100%;
+  padding-top: 0px !important;
+}
+
+@media(max-width: 767px) {
+  main.page, main.body {
+    height: auto;
+  }
+}
+
+section.page {
+  background-image: url('la_jolla_sp_login_background.png');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #3A3F50;
+}
+
+section.page main.body:before {
+  display: block;
+  background-color: #3A3F50;
+  opacity: 0.75;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>copy_of_landing_1</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>true</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:17:14</sys_created_on>
+        <sys_id>81c138bf074bd110cd89f4218c1ed061</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>copy_of_landing_1</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_page_81c138bf074bd110cd89f4218c1ed061</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:19:07</sys_updated_on>
+        <title>Harry Potter</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=81c138bf074bd110cd89f4218c1ed061"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_page_81c138bf074bd110cd89f4218c1ed061</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>other</category><css>main.page, main.body {
+  height: 99vh;
+  min-height: 100%;
+  padding-top: 0px !important;
+}
+
+@media(max-width: 767px) {
+  main.page, main.body {
+    height: auto;
+  }
+}
+
+section.page {
+  background-image: url('la_jolla_sp_login_background.png');
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: #3A3F50;
+}
+
+section.page main.body:before {
+  display: block;
+  background-color: #3A3F50;
+  opacity: 0.75;
+}</css><draft>false</draft><dynamic_title_structure/><id>copy_of_landing_1</id><internal>false</internal><omit_watcher>false</omit_watcher><public>true</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 14:17:14</sys_created_on><sys_id>81c138bf074bd110cd89f4218c1ed061</sys_id><sys_mod_count>1</sys_mod_count><sys_name>copy_of_landing_1</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sp_page_81c138bf074bd110cd89f4218c1ed061</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-15 14:19:07</sys_updated_on><title>Harry Potter</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=81c138bf074bd110cd89f4218c1ed061"/></record_update>]]></payload>
+        <payload_hash>-391966551</payload_hash>
+        <record_name>copy_of_landing_1</record_name>
+        <reverted_from/>
+        <source>ed3ebf2b0747d110cd89f4218c1ed09f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:19:08</sys_created_on>
+        <sys_id>fc32f073078bd110cd89f4218c1ed098</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1847ba873830000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-15 14:19:08</sys_updated_on>
+        <type>Page</type>
+        <update_guid>3832f0738e8bd1108b2c3aa3daf46e98</update_guid>
+        <update_guid_history>3832f0738e8bd1108b2c3aa3daf46e98:-391966551,1dc17473218bd1109da29d8a321cfb14:903286386</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="copy_of_landing_1">17adb54d07d39110cd89f4218c1ed01e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 17:01:18</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>15f6d0df57204c8a8e15cf32b0726111</sys_id>
+        <sys_metadata>81c138bf074bd110cd89f4218c1ed061</sys_metadata>
+        <sys_name>copy_of_landing_1</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_page_81c138bf074bd110cd89f4218c1ed061</sys_update_name>
+        <sys_update_version display_value="sp_page_81c138bf074bd110cd89f4218c1ed061">fc32f073078bd110cd89f4218c1ed098</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
