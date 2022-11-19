@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Nevrland">3b9ee07f074bd110cd89f4218c1ed022</sc_cat_item>
+        <sc_category display_value="Peripherals">2c0b59874f7b4200086eeed18110c71f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:34:15</sys_created_on>
+        <sys_id>9ea57c37078bd110cd89f4218c1ed097</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Peripherals.Netherland</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_category_9ea57c37078bd110cd89f4218c1ed097</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 13:18:17</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_category_9ea57c37078bd110cd89f4218c1ed097</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Nevrland">3b9ee07f074bd110cd89f4218c1ed022</sc_cat_item><sc_category display_value="Peripherals">2c0b59874f7b4200086eeed18110c71f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 14:34:15</sys_created_on><sys_id>9ea57c37078bd110cd89f4218c1ed097</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Peripherals.Netherland</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_category_9ea57c37078bd110cd89f4218c1ed097</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-16 13:18:17</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-917639075</payload_hash>
+        <record_name>Peripherals.Netherland</record_name>
+        <reverted_from/>
+        <source>ae8684b8075f1110cd89f4218c1ed0c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-18 13:42:19</sys_created_on>
+        <sys_id>2a8684b8075f1110cd89f4218c1ed0f2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848af9d2bf0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-18 13:42:19</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6e8684b85b5f1110fc60404a0270d7f1</update_guid>
+        <update_guid_history>6e8684b85b5f1110fc60404a0270d7f1:-917639075,66c71df7430fd1102f99c798dae6ab3f:632624209,aea57c379e8bd110ed6888b425c51e9a:866576566</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Peripherals.Netherland">fa86c4b8075f1110cd89f4218c1ed016</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-18 13:42:19</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>6a64a4bcaeb7479580c2f4d9d8744381</sys_id>
+        <sys_metadata>9ea57c37078bd110cd89f4218c1ed097</sys_metadata>
+        <sys_name>Peripherals.Netherland</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_9ea57c37078bd110cd89f4218c1ed097</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_9ea57c37078bd110cd89f4218c1ed097">2a8684b8075f1110cd89f4218c1ed0f2</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

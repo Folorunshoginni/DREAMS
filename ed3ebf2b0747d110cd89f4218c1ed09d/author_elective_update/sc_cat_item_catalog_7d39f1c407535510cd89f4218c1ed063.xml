@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Request cancellation">3d39f1c407535510cd89f4218c1ed060</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-16 14:07:53</sys_created_on>
+        <sys_id>7d39f1c407535510cd89f4218c1ed063</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Request cancellation</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7d39f1c407535510cd89f4218c1ed063</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 14:07:53</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_catalog_7d39f1c407535510cd89f4218c1ed063</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="DELETE"><sc_cat_item display_value="Request cancellation">3d39f1c407535510cd89f4218c1ed060</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-16 14:07:53</sys_created_on><sys_id>7d39f1c407535510cd89f4218c1ed063</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Request cancellation</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_catalog_7d39f1c407535510cd89f4218c1ed063</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-16 14:07:53</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-115670689</payload_hash>
+        <record_name>Service Catalog.Request cancellation</record_name>
+        <reverted_from/>
+        <source>d823828007935510cd89f4218c1ed051</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-16 14:51:12</sys_created_on>
+        <sys_id>d023828007935510cd89f4218c1ed0ee</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18480ec2ddd0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-16 14:51:12</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>182382803a93551062c2a0a1d1eb36ed</update_guid>
+        <update_guid_history>182382803a93551062c2a0a1d1eb36ed:-115670689,8e39f1c4a6535510da6f701bde587366:1507127507</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Request cancellation">6023828007935510cd89f4218c1ed0f2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-16 14:51:12</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>7353722c6a8e480885b14c2785961010</sys_id>
+        <sys_metadata>7d39f1c407535510cd89f4218c1ed063</sys_metadata>
+        <sys_name>Service Catalog.Request cancellation</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent display_value="">3d39f1c407535510cd89f4218c1ed060</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_7d39f1c407535510cd89f4218c1ed063</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_7d39f1c407535510cd89f4218c1ed063">d023828007935510cd89f4218c1ed0ee</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

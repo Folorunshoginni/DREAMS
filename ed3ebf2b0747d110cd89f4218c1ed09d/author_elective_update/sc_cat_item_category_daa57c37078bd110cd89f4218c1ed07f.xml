@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Nevrland">3b9ee07f074bd110cd89f4218c1ed022</sc_cat_item>
+        <sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-15 14:34:15</sys_created_on>
+        <sys_id>daa57c37078bd110cd89f4218c1ed07f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desktops.Netherland</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_category_daa57c37078bd110cd89f4218c1ed07f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-16 13:18:17</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_category_daa57c37078bd110cd89f4218c1ed07f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Nevrland">3b9ee07f074bd110cd89f4218c1ed022</sc_cat_item><sc_category display_value="Desktops">900682363731300054b6a3549dbe5d5f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-15 14:34:15</sys_created_on><sys_id>daa57c37078bd110cd89f4218c1ed07f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Desktops.Netherland</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_category_daa57c37078bd110cd89f4218c1ed07f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-16 13:18:17</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1732343044</payload_hash>
+        <record_name>Desktops.Netherland</record_name>
+        <reverted_from/>
+        <source>ae8684b8075f1110cd89f4218c1ed0c2</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-18 13:42:19</sys_created_on>
+        <sys_id>a28684b8075f1110cd89f4218c1ed0f8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848af9d3190000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-18 13:42:19</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>e68684b8095f11103fcde5b1d90c21f7</update_guid>
+        <update_guid_history>e68684b8095f11103fcde5b1d90c21f7:1732343044,6ac71df7f60fd110039f0d8598939744:1493147640,daa57c37ea8bd1103937cae10852f682:1684923421</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Desktops.Netherland">7286c4b8075f1110cd89f4218c1ed022</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-18 13:42:19</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1b0c2f5d975b41e0901f910ead986c40</sys_id>
+        <sys_metadata>daa57c37078bd110cd89f4218c1ed07f</sys_metadata>
+        <sys_name>Desktops.Netherland</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_daa57c37078bd110cd89f4218c1ed07f</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_daa57c37078bd110cd89f4218c1ed07f">a28684b8075f1110cd89f4218c1ed0f8</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
