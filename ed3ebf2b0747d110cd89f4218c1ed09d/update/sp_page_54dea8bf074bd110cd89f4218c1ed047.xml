@@ -33,6 +33,12 @@ h3 {
 padding: 150px 0px;
 }
 
+#story
+{
+	font-size: 1.5em;  
+}
+
+
 #story img {
   margin-top: 80px;
   margin-bottom: 20px;
