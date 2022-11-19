@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_category">
+    <sc_category action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description>Customer support for your holiday bookings. This includes making a request for a holiday booking cancellation, and other related queries.</description>
+        <entitlement_script/>
+        <header_icon/>
+        <homepage_image>fe66b84507df5110cd89f4218c1ed0b6</homepage_image>
+        <homepage_renderer display_value="Category Items">47ebe8aa3742300054b6a3549dbe5dfa</homepage_renderer>
+        <icon/>
+        <image/>
+        <location/>
+        <mobile_hide_description>false</mobile_hide_description>
+        <mobile_picture/>
+        <mobile_subcategory_render_type>list</mobile_subcategory_render_type>
+        <module/>
+        <order>0</order>
+        <parent/>
+        <roles/>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 11:49:51</sys_created_on>
+        <sys_id>7ea5780507df5110cd89f4218c1ed095</sys_id>
+        <sys_name>Holiday Experience Customer Support</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_category_7ea5780507df5110cd89f4218c1ed095</sys_update_name>
+        <title>Holiday Experience Customer Support</title>
+    </sc_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=7ea5780507df5110cd89f4218c1ed095"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ccccff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>homepage_image</file_name>
+        <hash>8b615e22bda1eb4d42bc82a5e8e9396daaaf987f165adc5058871d66324aad4d</hash>
+        <image_height>225</image_height>
+        <image_width>225</image_width>
+        <size_bytes>3150</size_bytes>
+        <size_compressed>3173</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 11:49:58</sys_created_on>
+        <sys_id>fe66b84507df5110cd89f4218c1ed0b6</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-19 11:49:59</sys_updated_on>
+        <table_name>ZZ_YYsc_category</table_name>
+        <table_sys_id>7ea5780507df5110cd89f4218c1ed095</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="homepage_image" sys_id="fe66b84507df5110cd89f4218c1ed0b6">fe66b84507df5110cd89f4218c1ed0b6</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 11:49:58</sys_created_on>
+        <sys_id>3266b84507df5110cd89f4218c1ed0b7</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>4220</length>
+        <position>1</position>
+        <sys_attachment display_value="homepage_image" sys_id="fe66b84507df5110cd89f4218c1ed0b6">fe66b84507df5110cd89f4218c1ed0b6</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 11:49:58</sys_created_on>
+        <sys_id>b266b84507df5110cd89f4218c1ed0b7</sys_id>
+    </sys_attachment_doc>
+</record_update>

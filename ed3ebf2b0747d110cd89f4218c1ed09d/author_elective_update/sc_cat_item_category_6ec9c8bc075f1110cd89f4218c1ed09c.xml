@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Harry Potter Experience">e2c9c8bc075f1110cd89f4218c1ed097</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 13:56:31</sys_created_on>
+        <sys_id>6ec9c8bc075f1110cd89f4218c1ed09c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Harry Potter Experience</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_category_6ec9c8bc075f1110cd89f4218c1ed09c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-18 13:56:31</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_category_6ec9c8bc075f1110cd89f4218c1ed09c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Harry Potter Experience">e2c9c8bc075f1110cd89f4218c1ed097</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-18 13:56:31</sys_created_on><sys_id>6ec9c8bc075f1110cd89f4218c1ed09c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Harry Potter Experience</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_category_6ec9c8bc075f1110cd89f4218c1ed09c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-18 13:56:31</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>683045600</payload_hash>
+        <record_name>Can We Help You?.Harry Potter Experience</record_name>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 13:56:31</sys_created_on>
+        <sys_id>3ec9c8bc075f1110cd89f4218c1ed09f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848b06d4040000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-18 13:56:31</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>76c9c8bc805f1110e48522546511f29f</update_guid>
+        <update_guid_history>76c9c8bc805f1110e48522546511f29f:683045600</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Harry Potter Experience">f1e0d4f4079f1110cd89f4218c1ed04a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 14:27:35</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>1015ca94cc73448089c5d01ee4723921</sys_id>
+        <sys_metadata>6ec9c8bc075f1110cd89f4218c1ed09c</sys_metadata>
+        <sys_name>Can We Help You?.Harry Potter Experience</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_6ec9c8bc075f1110cd89f4218c1ed09c</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_6ec9c8bc075f1110cd89f4218c1ed09c">3ec9c8bc075f1110cd89f4218c1ed09f</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

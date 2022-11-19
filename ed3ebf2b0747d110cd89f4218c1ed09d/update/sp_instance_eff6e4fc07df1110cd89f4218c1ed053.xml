@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="2">6bd5a4bc07df1110cd89f4218c1ed086</sp_column>
+        <sp_widget display_value="HTML">8679ef89cb21120000f8d856634c9c4f</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 16:04:05</sys_created_on>
+        <sys_id>eff6e4fc07df1110cd89f4218c1ed053</sys_id>
+        <sys_name/>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_instance_eff6e4fc07df1110cd89f4218c1ed053</sys_update_name>
+        <title/>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"html": {
+		"value": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.City.jpg\" alt=\"\" /></div>",
+		"displayValue": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.City.jpg\" alt=\"\" /></div>"
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=eff6e4fc07df1110cd89f4218c1ed053"/>
+</record_update>

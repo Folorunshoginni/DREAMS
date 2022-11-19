@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Black%20Friday.png\" alt=\"\" />\r\n<p class=\"blackText\">View our BLACK FRIDAY CHRISTMAS deals here.</p>\r\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">Discover our special Black Friday deals</a></p>\r\n</div>",
-		"displayValue": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Black%20Friday.png\" alt=\"\" />\n<p class=\"blackText\">View our BLACK FRIDAY CHRISTMAS deals here.</p>\n<p><a href=\"https://dev51610.service-now.com/hdp/?id=carousel_test\" target=\"_blank\" rel=\"noopener\">Discover our special Black Friday deals</a></p>\n</div>"
+		"value": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Black%20Friday.png\" alt=\"\" />\r\n<p class=\"blackText\">View our BLACK FRIDAY CHRISTMAS deals here.</p>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=black_friday\" target=\"_blank\" rel=\"noopener\">Discover our Black Friday deals</a></p>\r\n</div>",
+		"displayValue": "<div id=\"tagline\"><img style=\"max-width: 100%; max-height: 150px; display: block; margin-left: auto; margin-right: auto;\" src=\"x_938860_dream_boo.Black%20Friday.png\" alt=\"\" />\n<p class=\"blackText\">View our BLACK FRIDAY CHRISTMAS deals here.</p>\n<p><a href=\"https://dev17957.service-now.com/db/?id=black_friday\" target=\"_blank\" rel=\"noopener\">Discover our Black Friday deals</a></p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>

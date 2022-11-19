@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <order>200</order>
+        <published_ref/>
+        <question display_value="Please enter your destination:">7d809cb4079f1110cd89f4218c1ed0a2</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 14:25:58</sys_created_on>
+        <sys_id>ce809cb4079f1110cd89f4218c1ed0d8</sys_id>
+        <sys_name>Jumanji</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>question_choice_ce809cb4079f1110cd89f4218c1ed0d8</sys_update_name>
+        <text>Jumanji</text>
+        <value>jumanji</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=ce809cb4079f1110cd89f4218c1ed0d8"/>
+</record_update>

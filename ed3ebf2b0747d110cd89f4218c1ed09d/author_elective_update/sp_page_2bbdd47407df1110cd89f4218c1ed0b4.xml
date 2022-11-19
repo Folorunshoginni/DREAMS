@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>last_minute_offers</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 15:23:41</sys_created_on>
+        <sys_id>2bbdd47407df1110cd89f4218c1ed0b4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>last_minute_offers</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sp_page_2bbdd47407df1110cd89f4218c1ed0b4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-18 15:24:15</sys_updated_on>
+        <title>Last Minute Offer</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=2bbdd47407df1110cd89f4218c1ed0b4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sp_page_2bbdd47407df1110cd89f4218c1ed0b4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css/><draft>false</draft><dynamic_title_structure/><id>last_minute_offers</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-18 15:23:41</sys_created_on><sys_id>2bbdd47407df1110cd89f4218c1ed0b4</sys_id><sys_mod_count>1</sys_mod_count><sys_name>last_minute_offers</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sp_page_2bbdd47407df1110cd89f4218c1ed0b4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-18 15:24:15</sys_updated_on><title>Last Minute Offer</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=2bbdd47407df1110cd89f4218c1ed0b4"/></record_update>]]></payload>
+        <payload_hash>-1118135131</payload_hash>
+        <record_name>last_minute_offers</record_name>
+        <reverted_from/>
+        <source>f4fd69c007135510cd89f4218c1ed072</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 15:24:15</sys_created_on>
+        <sys_id>3bdd18b407df1110cd89f4218c1ed02b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1848b5727b30000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-18 15:24:15</sys_updated_on>
+        <type>Page</type>
+        <update_guid>33dd18b464df111049dff3f2ca0e552b</update_guid>
+        <update_guid_history>33dd18b464df111049dff3f2ca0e552b:-1118135131,abbdd47441df1110e8401b0fb806a8b6:70607813</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="last_minute_offers">182ca43407135110cd89f4218c1ed0ca</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 16:26:32</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>6c9ee3725d554a17a545d1771e23c371</sys_id>
+        <sys_metadata>2bbdd47407df1110cd89f4218c1ed0b4</sys_metadata>
+        <sys_name>last_minute_offers</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sp_page_2bbdd47407df1110cd89f4218c1ed0b4</sys_update_name>
+        <sys_update_version display_value="sp_page_2bbdd47407df1110cd89f4218c1ed0b4">3bdd18b407df1110cd89f4218c1ed02b</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
