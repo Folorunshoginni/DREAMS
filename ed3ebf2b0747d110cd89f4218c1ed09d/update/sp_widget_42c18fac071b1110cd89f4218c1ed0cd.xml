@@ -7,6 +7,7 @@
         <controller_as>c</controller_as>
         <css>.iconlink {
 	padding: 3px 0;
+  color:#fff;
 }
 
 .iconlink a label,h2 {
@@ -16,6 +17,7 @@
   line-height: 1.1;
   padding: 0;
   margin: 0 0 10px 0;
+  color:#fff;
 }
 
 /* TOP ICON ---------- */
@@ -24,11 +26,13 @@ a.top_icon {
   display: block;
   padding: 20px;
   text-align: center;
+  color:#fff;
 }
 
 a.top_icon .fa {
   display: block;
   text-align: center;
+  color:#fff;
 }
 
 /* CIRCLE ICON ---------- */
@@ -88,7 +92,8 @@ a.color_box .fa {
 }
 
 .text-primary {
-  color: $brand-primary;
+  //color: $brand-primary;
+  color:#fff;
   
   &amp;:hover {
     color: darken($brand-primary, 20%);

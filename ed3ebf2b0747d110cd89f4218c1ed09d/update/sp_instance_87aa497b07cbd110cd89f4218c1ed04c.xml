@@ -25,8 +25,8 @@
         <url/>
         <widget_parameters><![CDATA[{
 	"html": {
-		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 380px;\" src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"\" />\r\n<h3><strong>Alice in Wonderland</strong></h3>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=alice_in_wonderland\" target=\"_blank\" rel=\"noopener\">Dive into a rabbit hole in a fantasy world of anthropomorphic creatures</a></p>\r\n</div>",
-		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 380px;\" src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"\" />\n<h3><strong>Alice in Wonderland</strong></h3>\n<p><a href=\"https://dev17957.service-now.com/db/?id=alice_in_wonderland\" target=\"_blank\" rel=\"noopener\">Dive into a rabbit hole in a fantasy world of anthropomorphic creatures</a></p>\n</div>"
+		"value": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 380px;\" src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"\" />\r\n<h3><strong>Alice in Wonderland</strong></h3>\r\n<p><a href=\"https://dev17957.service-now.com/db/?id=alice_in_wonderland\" target=\"_blank\" rel=\"noopener\">Dive into a rabbit hole fantasy world</a></p>\r\n</div>",
+		"displayValue": "<div id=\"story\"><img style=\"max-width: 100%; max-height: 380px;\" src=\"x_938860_dream_boo.Alice%20in%20Wonderland.jpg\" alt=\"\" />\n<h3><strong>Alice in Wonderland</strong></h3>\n<p><a href=\"https://dev17957.service-now.com/db/?id=alice_in_wonderland\" target=\"_blank\" rel=\"noopener\">Dive into a rabbit hole fantasy world</a></p>\n</div>"
 	}
 }]]></widget_parameters>
     </sp_instance>
