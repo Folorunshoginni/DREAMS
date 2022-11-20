@@ -20,6 +20,14 @@
         <element attributes="edge_encryption_enabled=true" label="ARRIVAL DATE" max_length="40" name="u_arrival_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="DEPARTURE DATE" max_length="40" name="u_calendar_date_time_1" type="calendar_date_time"/>
         <element attributes="edge_encryption_enabled=true" label="Cancellation" max_length="1000" name="u_cancellation" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="2022-12-09" label="Christmas_bookings" max_length="40" name="u_christmas_bookings" type="glide_date_time">
+            <choice>
+                <element inactive_on_update="false" label="2022-12-09" sequence="0" value="2022-12-09"/>
+                <element inactive_on_update="false" label="2022-12-10" sequence="1" value="2022-12-10"/>
+                <element inactive_on_update="false" label="2022-12-13" sequence="2" value="2022-12-13"/>
+                <element inactive_on_update="false" label="2022-12-15" sequence="3" value="2022-12-15"/>
+            </choice>
+        </element>
         <element attributes="edge_encryption_enabled=true" label="DEPARTURE DATE" max_length="40" name="u_departure_date" type="glide_date_time"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="DESTINATION" max_length="40" name="u_destination" type="string">
             <choice>

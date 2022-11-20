@@ -13,7 +13,7 @@
         <script><![CDATA[function onSubmit() {
     //Type appropriate comment here, and begin script below
 
-    var dep = g_form.getValue('departure_date');
+    var dep = g_form.getValue('u_christmas_bookings');
 
     if (dep = '2022-12-09' || '2022-12-10' || '2022-12-13' || '2022-12-15') {
         g_form.setValue('arrival', '2023-01-4');
