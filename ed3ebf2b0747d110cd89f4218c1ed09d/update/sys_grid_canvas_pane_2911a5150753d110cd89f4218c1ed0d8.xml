@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA Dream bookings Custo - New Tab">6bedd5110753d110cd89f4218c1ed0dd</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2022-11-20 01:34:52">6d11a5150753d110cd89f4218c1ed0d6</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-20 09:34:52</sys_created_on>
+        <sys_id>2911a5150753d110cd89f4218c1ed0d8</sys_id>
+        <sys_name>6bedd5110753d110cd89f4218c1ed0dd</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_2911a5150753d110cd89f4218c1ed0d8</sys_update_name>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+</record_update>

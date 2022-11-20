@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA Dream bookings Custo - New Tab">27edd5110753d110cd89f4218c1ed0dc</legacy_page>
+        <name>PA Dream bookings Custo - New Tab</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-20 09:21:05</sys_created_on>
+        <sys_id>6bedd5110753d110cd89f4218c1ed0dd</sys_id>
+        <sys_name>PA Dream bookings Custo - New Tab</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sys_grid_canvas_6bedd5110753d110cd89f4218c1ed0dd</sys_update_name>
+    </sys_grid_canvas>
+</record_update>

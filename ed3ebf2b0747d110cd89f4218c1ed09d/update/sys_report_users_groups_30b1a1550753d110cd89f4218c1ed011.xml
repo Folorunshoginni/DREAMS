@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Dream Booking Cancellations- Urgency">7bf0e5d10753d110cd89f4218c1ed05f</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-20 09:37:34</sys_created_on>
+        <sys_id>30b1a1550753d110cd89f4218c1ed011</sys_id>
+        <sys_name>7bf0e5d10753d110cd89f4218c1ed05f</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sys_report_users_groups_30b1a1550753d110cd89f4218c1ed011</sys_update_name>
+        <user_id display_value="Julie Travel Agent">271a38c507df5110cd89f4218c1ed0ec</user_id>
+    </sys_report_users_groups>
+</record_update>

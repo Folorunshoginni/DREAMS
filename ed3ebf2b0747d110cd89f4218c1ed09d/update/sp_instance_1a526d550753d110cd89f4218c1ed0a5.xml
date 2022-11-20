@@ -11,48 +11,28 @@
         <short_description/>
         <size>md</size>
         <sp_column display_value="2">d432bdcc07135510cd89f4218c1ed02a</sp_column>
-        <sp_widget display_value="Announcements">94c300c7e777320075c2a117c2f6a9e7</sp_widget>
+        <sp_widget display_value="Report">e41aa2d29f0222008252baac757fcfce</sp_widget>
         <sys_class_name>sp_instance</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-17 13:40:11</sys_created_on>
-        <sys_id>bd7cb61c07179510cd89f4218c1ed06e</sys_id>
+        <sys_created_on>2022-11-20 09:40:24</sys_created_on>
+        <sys_id>1a526d550753d110cd89f4218c1ed0a5</sys_id>
         <sys_name/>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
-        <sys_update_name>sp_instance_bd7cb61c07179510cd89f4218c1ed06e</sys_update_name>
+        <sys_update_name>sp_instance_1a526d550753d110cd89f4218c1ed0a5</sys_update_name>
         <title/>
         <url/>
         <widget_parameters><![CDATA[{
-	"title": {
-		"value": "",
-		"displayValue": ""
+	"report_id": {
+		"value": "7bf0e5d10753d110cd89f4218c1ed05f",
+		"displayValue": "Dream Booking Cancellations- Urgency"
 	},
-	"glyph": {
-		"value": "",
-		"displayValue": ""
-	},
-	"type": {
-		"value": "",
-		"displayValue": ""
-	},
-	"paginate": {
-		"value": "true",
-		"displayValue": "true"
-	},
-	"max_records": {
-		"value": null,
-		"displayValue": ""
-	},
-	"view_all_page": {
-		"value": "",
-		"displayValue": ""
-	},
-	"use_display_style": {
+	"show_title": {
 		"value": "true",
 		"displayValue": "true"
 	}
 }]]></widget_parameters>
     </sp_instance>
-    <sys_translated_text action="delete_multiple" query="documentkey=bd7cb61c07179510cd89f4218c1ed06e"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=1a526d550753d110cd89f4218c1ed0a5"/>
 </record_update>

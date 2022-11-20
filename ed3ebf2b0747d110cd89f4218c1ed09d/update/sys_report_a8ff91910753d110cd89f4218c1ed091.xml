@@ -19,7 +19,7 @@
         <chart_subtitle_color/>
         <chart_subtitle_size>14</chart_subtitle_size>
         <chart_subtitle_style>normal</chart_subtitle_style>
-        <chart_title>Most popular holiday destination</chart_title>
+        <chart_title/>
         <chart_title_color display_value="Black">65b30218a9fe3dba0120df8611520d97</chart_title_color>
         <chart_title_size>16</chart_title_size>
         <chart_title_style>normal</chart_title_style>
@@ -45,8 +45,8 @@
         <donut_width_percent>30</donut_width_percent>
         <end_time/>
         <exp_report_attrs>true</exp_report_attrs>
-        <field>destination</field>
-        <field_list>number,name,address,priority,email,destination,u_calendar_date_time_1,arrival_date,state,assigned_to,short_description,sys_class_name</field_list>
+        <field>u_destination</field>
+        <field_list>number,u_name,u_email_address,u_reason_cancellation,u_address,u_arrival_date,u_departure_date,u_destination,urgency,u_cancellation_details</field_list>
         <filter/>
         <formatting_configuration>{"table":"incident","stringFormattingProperties":{},"durationFormattingProperties":{},"dateFormattingProperties":{},"numberFormattingProperties":{}}</formatting_configuration>
         <from/>
@@ -86,7 +86,7 @@
         <sc_stackby_variable_id/>
         <score_color display_value="Black">65b30218a9fe3dba0120df8611520d97</score_color>
         <series_name_text/>
-        <set_color>one_color</set_color>
+        <set_color>color_palette</set_color>
         <show_chart_border>false</show_chart_border>
         <show_chart_data_label>false</show_chart_data_label>
         <show_chart_title>always</show_chart_title>
@@ -104,20 +104,20 @@
         <sumfield/>
         <sys_class_name>sys_report</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-17 13:53:06</sys_created_on>
-        <sys_id>4f6ffe9c07179510cd89f4218c1ed0f7</sys_id>
-        <sys_name>Most popular holiday bookings</sys_name>
+        <sys_created_on>2022-11-20 09:29:54</sys_created_on>
+        <sys_id>a8ff91910753d110cd89f4218c1ed091</sys_id>
+        <sys_name>Dream Booking Cancellations- Destinations</sys_name>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
-        <sys_update_name>sys_report_4f6ffe9c07179510cd89f4218c1ed0f7</sys_update_name>
-        <table>x_938860_dream_boo_booking_task</table>
-        <title>Most popular holiday bookings</title>
+        <sys_update_name>sys_report_a8ff91910753d110cd89f4218c1ed091</sys_update_name>
+        <table>x_938860_dream_boo_cancellations</table>
+        <title>Dream Booking Cancellations- Destinations</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
         <trend_field/>
-        <type>pareto</type>
+        <type>pie</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
         <use_null_in_trend>false</use_null_in_trend>
