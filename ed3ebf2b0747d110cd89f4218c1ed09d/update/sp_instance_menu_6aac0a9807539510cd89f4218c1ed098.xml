@@ -34,7 +34,7 @@
 	},
 	"enable_requests":{
 		"displayValue":"false",
-		"value":true
+		"value":false
 	},
     "enable_tasks":{
 		"displayValue":"false",
@@ -43,7 +43,7 @@
     "enable_more_items":{
       	"displayValue":"true",
       	"value":true,
-        "sysId":"[UPDATE THIS VALUE]"
+        "sysId":"0dad4a8d07179110cd89f4218c1ed074"
     }
 }]]></widget_parameters>
     </sp_instance_menu>
