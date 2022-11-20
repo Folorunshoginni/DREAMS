@@ -28,19 +28,19 @@
         <rest_variables/>
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
-	
-	//Find all cancellations with an urgency of 1 or 2
-var dbCancel = new GlideRecord('x_938860_dream_boo_cancellations');
-dbCancel.addQuery('urgency', 1).addOrCondition('urgency', 2);
-dbCancel.query();
-	
-	var myLog = "";
-	
+
+    //Find all cancellations with an urgency of 1 or 2
+    var dbCancel = new GlideRecord('x_938860_dream_boo_cancellations');
+    dbCancel.addQuery('urgency', 1);
+    dbCancel.query();
+
+    var myLog = "";
+
     while (dbCancel.next()) {
-	myLog += dbCancel.number + ", ";
+        myLog += dbCancel.number + ", ";
     }
-	
-	gs.addErrorMessage("These records are urgent Dream Booking cancellations: " + myLog);
+
+    gs.addErrorMessage("These records are urgent Dream Booking cancellations: " + myLog);
 
 
 })(current, previous);]]></script>
