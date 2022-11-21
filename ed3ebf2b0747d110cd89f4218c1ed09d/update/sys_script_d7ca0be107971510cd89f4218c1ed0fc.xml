@@ -19,7 +19,7 @@
         <is_rest>false</is_rest>
         <message/>
         <name>Tessa Business Rule</name>
-        <order>250</order>
+        <order>400</order>
         <priority>100</priority>
         <rest_method/>
         <rest_method_text/>
@@ -30,7 +30,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
   var cancel = new GlideRecord("x_938860_dream_boo_cancellations");
-    cancel.addQuery("u_destination","CONTAINS", "elf");
+    cancel.addQuery("u_destination","CONTAINS", "Lord of the Rings");
     cancel.query();
     if (cancel.next()) 
 		
@@ -40,7 +40,7 @@
         myLog += cancel.number + ", ";
     }
 
-    gs.addInfoMessage("These records are the Elf cancellations: " + myLog);
+    gs.addInfoMessage("These records are the Lord of the Ring cancellations: " + myLog);
 
 
 })(current, previous);]]></script>
