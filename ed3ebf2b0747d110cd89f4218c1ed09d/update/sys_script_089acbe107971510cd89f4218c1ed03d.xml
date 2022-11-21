@@ -18,7 +18,7 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Heather Business Rule Demo</name>
+        <name>High Urgency Cancellations</name>
         <order>100</order>
         <priority>100</priority>
         <rest_method/>
@@ -30,7 +30,7 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
     var cancel = new GlideRecord("x_938860_dream_boo_cancellations");
-    cancel.addQuery("u_destination","CONTAINS", "Harry Potter");
+    cancel.addQuery("urgency", 1);
     cancel.query();
     if (cancel.next()) 
 
@@ -40,7 +40,7 @@
         myLog += cancel.number + ", ";
     }
 
-    gs.addErrorMessage("These records are the Harry Potter cancellations: " + myLog);
+    gs.addErrorMessage("These records are the Dream Bookings urgent cancellations: " + myLog);
 
 
 })(current, previous);]]></script>
@@ -50,7 +50,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>089acbe107971510cd89f4218c1ed03d</sys_id>
-        <sys_name>Heather Business Rule Demo</sys_name>
+        <sys_name>High Urgency Cancellations</sys_name>
         <sys_overrides/>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
