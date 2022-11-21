@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="d35bf040075b1510cd89f4218c1ed0c0" extends="task" label="Holiday Bookings" max_length="40" name="x_938860_dream_boo_booking_task" type="collection">
-        <element attributes="edge_encryption_enabled=true" label="ADDRESS" max_length="40" name="address" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="ADDRESS" max_length="100" name="address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="arrival" max_length="40" name="arrival" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="arrival date" max_length="40" name="arrival_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="DEPARTURE DATE" mandatory="true" max_length="40" name="departure_date" type="string">
