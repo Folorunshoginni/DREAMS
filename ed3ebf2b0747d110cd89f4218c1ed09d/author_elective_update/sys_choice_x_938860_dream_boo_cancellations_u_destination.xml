@@ -76,5 +76,117 @@
             <sys_domain_path>/</sys_domain_path>
             <value>frozen</value>
         </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_destination</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Alice in Wonderland</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_cancellations</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 12:35:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>alice in wonderland</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_destination</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hocus Pocus 2</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_cancellations</name>
+            <sequence>5</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 12:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>hocus pocus 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_destination</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Narnia</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_cancellations</name>
+            <sequence>6</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 12:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>narnia</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_destination</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Jurassic Park</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_cancellations</name>
+            <sequence>7</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 12:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>jurassic park</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_destination</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Elf</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_cancellations</name>
+            <sequence>8</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 12:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>elf</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_destination</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Home Alone</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_cancellations</name>
+            <sequence>9</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 12:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>home alone</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_destination</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Polar Express</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_cancellations</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 12:35:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>polar express</value>
+        </sys_choice>
     </sys_choice>
 </record_update>

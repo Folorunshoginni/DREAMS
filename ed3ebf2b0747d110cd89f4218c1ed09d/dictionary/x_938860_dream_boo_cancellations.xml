@@ -2,7 +2,7 @@
     <element db_object_id="4b0a9f28079b1110cd89f4218c1ed057" extends="task" label="Cancellations" max_length="40" name="x_938860_dream_boo_cancellations" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Arrival Date" mandatory="true" max_length="40" name="u_arrival_date" type="glide_date"/>
-        <element attributes="edge_encryption_enabled=true" label="Cancellation Details" mandatory="true" max_length="40" name="u_cancellation_details" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Cancellation Details" mandatory="true" max_length="1000" name="u_cancellation_details" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Departure Date" mandatory="true" max_length="40" name="u_departure_date" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" choice="1" default="harry potter" label="Destination" mandatory="true" max_length="40" name="u_destination" type="string">
             <choice>
@@ -10,6 +10,13 @@
                 <element inactive_on_update="false" label="Jumanji" sequence="1" value="jumanji"/>
                 <element inactive_on_update="false" label="Lord of the Rings" sequence="2" value="lord of the rings"/>
                 <element inactive_on_update="false" label="Frozen" sequence="3" value="frozen"/>
+                <element inactive_on_update="false" label="Alice in Wonderland" sequence="4" value="alice in wonderland"/>
+                <element inactive_on_update="false" label="Hocus Pocus 2" sequence="5" value="hocus pocus 2"/>
+                <element inactive_on_update="false" label="Narnia" sequence="6" value="narnia"/>
+                <element inactive_on_update="false" label="Jurassic Park" sequence="7" value="jurassic park"/>
+                <element inactive_on_update="false" label="Elf" sequence="8" value="elf"/>
+                <element inactive_on_update="false" label="Home Alone" sequence="9" value="home alone"/>
+                <element inactive_on_update="false" label="Polar Express" sequence="10" value="polar express"/>
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="Email Address" mandatory="true" max_length="40" name="u_email_address" type="string"/>
