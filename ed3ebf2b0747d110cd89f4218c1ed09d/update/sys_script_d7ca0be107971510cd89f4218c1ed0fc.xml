@@ -19,7 +19,7 @@
         <is_rest>false</is_rest>
         <message/>
         <name>Tessa Business Rule</name>
-        <order>200</order>
+        <order>250</order>
         <priority>100</priority>
         <rest_method/>
         <rest_method_text/>
@@ -29,12 +29,18 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
-    var cancel = new GlideRecord("");
-    cancel.addQuery("name", "value");
+  var cancel = new GlideRecord("x_938860_dream_boo_cancellations");
+    cancel.addQuery("u_destination","CONTAINS", "elf");
     cancel.query();
-    if (cancel.next()) {
+    if (cancel.next()) 
+		
+		var myLog = "";
 
+    while (cancel.next()) {
+        myLog += cancel.number + ", ";
     }
+
+    gs.addInfoMessage("These records are the Elf cancellations: " + myLog);
 
 
 })(current, previous);]]></script>

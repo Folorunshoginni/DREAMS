@@ -19,7 +19,7 @@
         <is_rest>false</is_rest>
         <message/>
         <name>Ibrahim business rule demo</name>
-        <order>200</order>
+        <order>300</order>
         <priority>100</priority>
         <rest_method/>
         <rest_method_text/>
@@ -30,11 +30,17 @@
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
     var cancel = new GlideRecord("x_938860_dream_boo_cancellations");
-    cancel.addQuery("name", "value");
+    cancel.addQuery("u_destination","CONTAINS", "Frozen");
     cancel.query();
-    if (gr.next()) {
+    if (cancel.next()) 
 
+   var myLog = "";
+
+    while (cancel.next()) {
+        myLog += cancel.number + ", ";
     }
+
+    gs.addInfoMessage("These records are the Frozen cancellations: " + myLog);
 
 
 })(current, previous);]]></script>
