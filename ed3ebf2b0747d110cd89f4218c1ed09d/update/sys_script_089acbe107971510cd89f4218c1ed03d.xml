@@ -18,8 +18,8 @@
         <filter_condition/>
         <is_rest>false</is_rest>
         <message/>
-        <name>Dream Booking Cancellations</name>
-        <order>150</order>
+        <name>Heather Business Rule Demo</name>
+        <order>100</order>
         <priority>100</priority>
         <rest_method/>
         <rest_method_text/>
@@ -29,38 +29,35 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/ ) {
 
+    var cancel = new GlideRecord("x_938860_dream_boo_cancellations");
+    cancel.addQuery("u_destination","CONTAINS", "Harry Potter");
+    cancel.query();
+    if (cancel.next()) 
 
+   var myLog = "";
 
-	
-    //Find all cancellations with an urgency of 1 or 2
-    var dbCancel = new GlideRecord('x_938860_dream_boo_cancellations');
-    dbCancel.addQuery('urgency', 1);
-    dbCancel.query();
-
-    var myLog = "";
-
-    while (dbCancel.next()) {
-        myLog += dbCancel.number + ", ";
+    while (cancel.next()) {
+        myLog += cancel.number + ", ";
     }
 
-    gs.addErrorMessage("These records are urgent Dream Booking cancellations: " + myLog);
+    gs.addErrorMessage("These records are the Harry Potter cancellations: " + myLog);
 
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-19 19:38:59</sys_created_on>
+        <sys_created_on>2022-11-21 12:01:11</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
-        <sys_id>04902ac107979110cd89f4218c1ed0ea</sys_id>
-        <sys_name>Dream Booking Cancellations</sys_name>
+        <sys_id>089acbe107971510cd89f4218c1ed03d</sys_id>
+        <sys_name>Heather Business Rule Demo</sys_name>
         <sys_overrides/>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
-        <sys_update_name>sys_script_04902ac107979110cd89f4218c1ed0ea</sys_update_name>
+        <sys_update_name>sys_script_089acbe107971510cd89f4218c1ed03d</sys_update_name>
         <template/>
         <when>after</when>
     </sys_script>
-    <sys_translated_text action="delete_multiple" query="documentkey=04902ac107979110cd89f4218c1ed0ea"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=089acbe107971510cd89f4218c1ed03d"/>
 </record_update>
