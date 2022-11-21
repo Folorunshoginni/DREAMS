@@ -44,5 +44,12 @@
                 <element inactive_on_update="false" label="Polar Express" sequence="10" value="polar express"/>
             </choice>
         </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Payment Type" max_length="40" name="u_payment_type" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Visa" sequence="0" value="visa"/>
+                <element inactive_on_update="false" label="Debit Card" sequence="1" value="debit card"/>
+                <element inactive_on_update="false" label="Master Card" sequence="2" value="master card"/>
+            </choice>
+        </element>
     </element>
 </database>

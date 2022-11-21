@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_payment_type" table="x_938860_dream_boo_booking_task" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_payment_type</element>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 19:31:11</sys_created_on>
+            <sys_name>u_payment_type</sys_name>
+            <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+            <sys_update_name>sys_choice_x_938860_dream_boo_booking_task_u_payment_type</sys_update_name>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Visa</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 19:31:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>visa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Debit Card</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 19:31:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>debit card</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_payment_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Master Card</label>
+            <language>en</language>
+            <name>x_938860_dream_boo_booking_task</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-11-21 19:31:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <value>master card</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
