@@ -47,7 +47,7 @@
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture>1378507c079f1110cd89f4218c1ed0de</picture>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=c1998c7c075f1110cd89f4218c1ed044&amp;sysparm_preview=true", "summary");</preview>
-        <price>434.5957</price>
+        <price>430.901</price>
         <published_ref/>
         <recurring_frequency/>
         <request_method>submit</request_method>
@@ -56,7 +56,7 @@
         <sc_ic_item_staging/>
         <sc_ic_version/>
         <sc_template display_value="Standard items in Service Catalog">dab9529cbd002010f8775d9559d0dab6</sc_template>
-        <short_description>Come and join the Forzen wonderland!</short_description>
+        <short_description>Come and join the Frozen wonderland!</short_description>
         <show_variable_help_on_load>false</show_variable_help_on_load>
         <start_closed>false</start_closed>
         <state>published</state>
