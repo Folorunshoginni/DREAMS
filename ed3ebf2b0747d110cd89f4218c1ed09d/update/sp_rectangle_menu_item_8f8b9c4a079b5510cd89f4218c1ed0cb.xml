@@ -12,28 +12,28 @@
         <kb_article/>
         <kb_category/>
         <kb_topic/>
-        <label>Harry Potter</label>
-        <order>100</order>
+        <label>Support</label>
+        <order>200</order>
         <record_script/>
         <sc_cat_item/>
         <sc_category/>
         <short_description/>
         <sp_page/>
-        <sp_rectangle_menu/>
-        <sp_rectangle_menu_item display_value="Holiday Experiences">0dad4a8d07179110cd89f4218c1ed074</sp_rectangle_menu_item>
+        <sp_rectangle_menu display_value="Dream Header Menu">bdf898c6079b5510cd89f4218c1ed0da</sp_rectangle_menu>
+        <sp_rectangle_menu_item/>
         <sys_class_name>sp_rectangle_menu_item</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-20 10:02:58</sys_created_on>
-        <sys_id>67572d990753d110cd89f4218c1ed077</sys_id>
-        <sys_name>Harry Potter</sys_name>
+        <sys_created_on>2022-11-22 12:27:24</sys_created_on>
+        <sys_id>8f8b9c4a079b5510cd89f4218c1ed0cb</sys_id>
+        <sys_name>Support</sys_name>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
         <sys_policy/>
         <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
-        <sys_update_name>sp_rectangle_menu_item_67572d990753d110cd89f4218c1ed077</sys_update_name>
+        <sys_update_name>sp_rectangle_menu_item_8f8b9c4a079b5510cd89f4218c1ed0cb</sys_update_name>
         <table/>
         <type>url</type>
-        <url>https://dev17957.service-now.com/db/?id=sc_cat_item&amp;sys_id=d37090b4079f1110cd89f4218c1ed0b6&amp;sysparm_category=4705f00507df5110cd89f4218c1ed0da</url>
+        <url>https://dev17957.service-now.com/db/?id=sc_category&amp;sys_id=7ea5780507df5110cd89f4218c1ed095&amp;catalog_id=e0d08b13c3330100c8b837659bba8fb4</url>
         <url_target/>
     </sp_rectangle_menu_item>
-    <sys_translated_text action="delete_multiple" query="documentkey=67572d990753d110cd89f4218c1ed077"/>
+    <sys_translated_text action="delete_multiple" query="documentkey=8f8b9c4a079b5510cd89f4218c1ed0cb"/>
 </record_update>
