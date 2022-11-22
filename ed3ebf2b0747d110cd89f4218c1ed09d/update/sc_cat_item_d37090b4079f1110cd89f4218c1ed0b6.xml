@@ -15,7 +15,7 @@
 <p>Book your tickets now!!</p>]]></description>
         <display_price_property>non_zero</display_price_property>
         <entitlement_script/>
-        <flow_designer_flow display_value="Dream Booking Test Flow">219e618d07939110cd89f4218c1ed0fb</flow_designer_flow>
+        <flow_designer_flow display_value="dream booking">66f0eba907d71510cd89f4218c1ed086</flow_designer_flow>
         <fulfillment_automation_level>unspecified</fulfillment_automation_level>
         <group/>
         <hide_sp>false</hide_sp>
@@ -47,7 +47,7 @@
         <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
         <picture>a9c4247c07df1110cd89f4218c1ed0f4</picture>
         <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=d37090b4079f1110cd89f4218c1ed0b6&amp;sysparm_preview=true", "summary");</preview>
-        <price>357.2019</price>
+        <price>354.1652</price>
         <published_ref/>
         <recurring_frequency/>
         <request_method>submit</request_method>
