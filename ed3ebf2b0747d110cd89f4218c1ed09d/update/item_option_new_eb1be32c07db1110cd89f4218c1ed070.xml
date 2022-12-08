@@ -40,7 +40,7 @@
         <mask_use_confirmation>false</mask_use_confirmation>
         <mask_use_encryption>false</mask_use_encryption>
         <name>u_cancellation_details</name>
-        <order>800</order>
+        <order>900</order>
         <post_insert_script/>
         <price_if_checked>0</price_if_checked>
         <pricing_implications>false</pricing_implications>
@@ -73,7 +73,7 @@
         <summary_macro/>
         <sys_class_name>item_option_new</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2022-11-19 15:14:57</sys_created_on>
+        <sys_created_on>2022-11-20 08:38:51</sys_created_on>
         <sys_id>eb1be32c07db1110cd89f4218c1ed070</sys_id>
         <sys_name>Please provide further details about your request for cancellation:</sys_name>
         <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>

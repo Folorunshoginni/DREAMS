@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Jurassic park experience">fd2154f4079f1110cd89f4218c1ed06a</sc_cat_item>
+        <sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-18 15:53:49</sys_created_on>
+        <sys_id>cda4e07c07df1110cd89f4218c1ed01e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Services.Jurassic park experience</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_category_cda4e07c07df1110cd89f4218c1ed01e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-19 12:08:33</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_category_cda4e07c07df1110cd89f4218c1ed01e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Jurassic park experience">fd2154f4079f1110cd89f4218c1ed06a</sc_cat_item><sc_category display_value="Services">109f0438c6112276003ae8ac13e7009d</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-18 15:53:49</sys_created_on><sys_id>cda4e07c07df1110cd89f4218c1ed01e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Services.Jurassic park experience</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_category_cda4e07c07df1110cd89f4218c1ed01e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-19 12:08:33</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>2089654171</payload_hash>
+        <record_name>Services.Jurassic park experience</record_name>
+        <reverted_from/>
+        <source>ed3c309607db9510cd89f4218c1ed008</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-23 09:27:41</sys_created_on>
+        <sys_id>293c709607db9510cd89f4218c1ed0a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184a3d081e00000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-23 09:27:41</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>6d3c709656db951043cee8634db9eaa5</update_guid>
+        <update_guid_history>6d3c709656db951043cee8634db9eaa5:2089654171,41a4e07c31df1110efa5e0edef6b8c2e:1820663695</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Services.Jurassic park experience">6d3c709607db9510cd89f4218c1ed0ad</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-23 09:27:41</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>2355a49645dd4aae9db611e39420dbb9</sys_id>
+        <sys_metadata>cda4e07c07df1110cd89f4218c1ed01e</sys_metadata>
+        <sys_name>Services.Jurassic park experience</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_cda4e07c07df1110cd89f4218c1ed01e</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_cda4e07c07df1110cd89f4218c1ed01e">293c709607db9510cd89f4218c1ed0a6</sys_update_version>
+    </sys_metadata_delete>
+</record_update>

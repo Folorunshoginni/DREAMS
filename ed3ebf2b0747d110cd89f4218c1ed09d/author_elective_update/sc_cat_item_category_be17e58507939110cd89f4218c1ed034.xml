@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Alice in Wonderland Experience">f1801cb4079f1110cd89f4218c1ed06e</sc_cat_item>
+        <sc_category display_value="Holiday Experiences">4705f00507df5110cd89f4218c1ed0da</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-11-19 15:22:42</sys_created_on>
+        <sys_id>be17e58507939110cd89f4218c1ed034</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Holiday Experiences.Alice in Wonderland Experience</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_update_name>sc_cat_item_category_be17e58507939110cd89f4218c1ed034</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-11-19 15:25:18</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</application>
+        <file_path/>
+        <instance_id>708a84206f9d9280f51e7b2f5d3ee426</instance_id>
+        <instance_name>dev17957</instance_name>
+        <name>sc_cat_item_category_be17e58507939110cd89f4218c1ed034</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="DELETE"><sc_cat_item display_value="Alice in Wonderland Experience">f1801cb4079f1110cd89f4218c1ed06e</sc_cat_item><sc_category display_value="Holiday Experiences">4705f00507df5110cd89f4218c1ed0da</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-11-19 15:22:42</sys_created_on><sys_id>be17e58507939110cd89f4218c1ed034</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Holiday Experiences.Alice in Wonderland Experience</sys_name><sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package><sys_policy/><sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope><sys_update_name>sc_cat_item_category_be17e58507939110cd89f4218c1ed034</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-11-19 15:25:18</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-767738335</payload_hash>
+        <record_name>Holiday Experiences.Alice in Wonderland Experience</record_name>
+        <reverted_from/>
+        <source>30eaf0d207db9510cd89f4218c1ed0fd</source>
+        <source_table>sys_update_set</source_table>
+        <state>current</state>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-23 09:21:55</sys_created_on>
+        <sys_id>45ea34d207db9510cd89f4218c1ed011</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>184a3cb37df0000001</sys_recorded_at>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-11-23 09:21:55</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>b8ea34d253db951095b48fc1bd320710</update_guid>
+        <update_guid_history>b8ea34d253db951095b48fc1bd320710:-767738335,7e17e58549939110fd5a71af35b90437:1479133461</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Holiday Experiences.Alice in Wonderland Experience">01ea34d207db9510cd89f4218c1ed022</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-11-23 09:21:55</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>489df6e921a54306848b42eb1ea9d7e4</sys_id>
+        <sys_metadata>be17e58507939110cd89f4218c1ed034</sys_metadata>
+        <sys_name>Holiday Experiences.Alice in Wonderland Experience</sys_name>
+        <sys_package display_value="DREAM_BOOKING" source="x_938860_dream_boo">ed3ebf2b0747d110cd89f4218c1ed09d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="DREAM_BOOKING">ed3ebf2b0747d110cd89f4218c1ed09d</sys_scope>
+        <sys_scope_delete display_value="">1731849a6ed4474087e99ed9e3630161</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_be17e58507939110cd89f4218c1ed034</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_be17e58507939110cd89f4218c1ed034">45ea34d207db9510cd89f4218c1ed011</sys_update_version>
+    </sys_metadata_delete>
+</record_update>
