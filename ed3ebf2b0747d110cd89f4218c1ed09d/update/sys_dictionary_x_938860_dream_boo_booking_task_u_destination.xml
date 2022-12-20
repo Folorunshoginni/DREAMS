@@ -11,7 +11,7 @@
         <column_label>DESTINATION</column_label>
         <comments/>
         <create_roles/>
-        <default_value/>
+        <default_value>harry potter</default_value>
         <defaultsort/>
         <delete_roles/>
         <dependent/>

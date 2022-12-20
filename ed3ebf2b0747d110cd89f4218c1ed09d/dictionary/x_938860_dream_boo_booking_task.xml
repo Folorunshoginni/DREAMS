@@ -29,7 +29,7 @@
             </choice>
         </element>
         <element attributes="edge_encryption_enabled=true" label="DEPARTURE DATE" max_length="40" name="u_departure_date" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" choice="1" label="DESTINATION" max_length="40" name="u_destination" type="string">
+        <element attributes="edge_encryption_enabled=true" choice="1" default="harry potter" label="DESTINATION" max_length="40" name="u_destination" type="string">
             <choice>
                 <element inactive_on_update="false" label="Harry Potter" sequence="0" value="harry potter"/>
                 <element inactive_on_update="false" label="Jumanji" sequence="1" value="jumanji"/>
